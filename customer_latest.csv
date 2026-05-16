@@ -1,0 +1,1001 @@
+Client_Num,Customer_Age,Gender,Dependent_Count,Education_Level,Marital_Status,state_cd,Zipcode,Car_Owner,House_Owner,Personal_loan,contact,Customer_Job,Income,Cust_Satisfaction_Score
+985822412,58,M,5,Doctorate,Single,UT,72120,yes,yes,no,unknown,Selfemployeed,119886,3
+914942603,71,M,3,Post-Graduate,Single,SC,90291,no,no,yes,unknown,Businessman,8250,2
+903356886,48,M,2,Doctorate,Married,MI,53022,yes,yes,yes,telephone,Selfemployeed,79417,2
+999529223,34,M,3,Unknown,Single,AK,98815,no,yes,no,telephone,Businessman,98581,5
+936913810,62,M,5,Doctorate,Married,FL,53010,yes,no,yes,cellular,White-collar,68534,2
+932868828,27,F,0,Graduate,Married,HI,90036,yes,no,no,telephone,Businessman,35825,2
+929958838,40,F,2,Post-Graduate,Single,MO,90255,yes,yes,yes,telephone,Selfemployeed,40814,4
+918728463,58,M,0,Doctorate,Unknown,AK,90291,no,no,yes,cellular,Retirees,70694,3
+998847493,38,F,1,Doctorate,Single,SC,91750,no,yes,yes,cellular,Selfemployeed,109371,1
+913756669,42,F,0,Post-Graduate,Single,TX,72076,yes,no,no,cellular,Govt,47902,3
+990825067,30,F,1,Unknown,Married,SC,90660,no,no,no,telephone,Blue-collar,29882,5
+999410741,30,M,1,Unknown,Single,NE,91724,yes,no,yes,cellular,Blue-collar,102256,3
+973197857,43,M,0,Post-Graduate,Married,NJ,86503,yes,no,no,unknown,Govt,18800,2
+911668732,72,F,2,Uneducated,Unknown,TX,90291,no,yes,yes,unknown,Blue-collar,79417,5
+979254563,55,M,5,Post-Graduate,Unknown,FL,91615,no,no,yes,unknown,Blue-collar,88450,3
+956629388,59,F,3,Post-Graduate,Unknown,NV,72120,no,no,no,telephone,White-collar,5525,5
+904265799,43,F,3,Unknown,Single,NM,91010,no,no,no,unknown,Retirees,44956,1
+903999315,22,F,5,Unknown,Married,OH,90255,yes,yes,no,telephone,Retirees,15371,3
+912575562,41,F,1,Post-Graduate,Unknown,MI,90275,no,yes,no,telephone,Selfemployeed,20100,2
+929345092,72,M,1,Post-Graduate,Married,MN,90266,no,no,yes,unknown,Govt,69810,5
+931227216,21,M,2,Post-Graduate,Married,UT,90266,yes,no,no,cellular,Businessman,116439,4
+967827638,43,M,4,Unknown,Unknown,SC,90026,no,no,no,telephone,Selfemployeed,87071,5
+980801586,63,F,0,Post-Graduate,Unknown,AR,91010,no,no,yes,unknown,Selfemployeed,11114,4
+903561597,49,M,1,Post-Graduate,Married,NV,91750,no,no,yes,telephone,Selfemployeed,68693,2
+975329037,57,F,3,High School,Unknown,HI,72058,no,no,yes,cellular,Selfemployeed,76189,1
+926687537,21,M,2,Uneducated,Married,MN,90660,yes,yes,yes,cellular,Retirees,67550,4
+996102525,40,F,0,Graduate,Married,SC,90019,yes,no,no,unknown,Businessman,41660,1
+987226012,52,F,2,Uneducated,Unknown,OR,98815,no,no,no,telephone,Selfemployeed,30913,5
+994130244,31,F,0,High School,Single,AR,90706,no,no,yes,telephone,Retirees,49700,2
+973140807,41,M,0,Graduate,Unknown,TX,90255,yes,no,yes,telephone,Selfemployeed,19506,4
+956306997,63,M,5,Post-Graduate,Single,NJ,91615,no,no,no,telephone,Blue-collar,130299,5
+929587039,44,M,1,High School,Married,OH,90302,no,no,no,unknown,Selfemployeed,14975,3
+960291817,68,M,2,Post-Graduate,Married,IL,90201,no,yes,no,cellular,Govt,18825,5
+979089901,46,F,2,Unknown,Single,NE,90201,no,yes,no,unknown,Govt,27567,1
+937338124,61,M,5,Doctorate,Married,FL,72058,no,yes,no,telephone,Selfemployeed,119754,2
+900872248,47,M,3,High School,Single,AZ,53010,no,yes,yes,telephone,White-collar,10691,2
+921429110,35,F,3,Unknown,Single,IL,90250,no,yes,yes,cellular,Blue-collar,85102,5
+993702683,34,F,1,High School,Married,TX,90670,no,yes,yes,telephone,Businessman,113787,3
+956722344,66,F,1,High School,Single,MA,90029,no,no,yes,unknown,Selfemployeed,104894,1
+945667651,70,M,4,Unknown,Unknown,AZ,91723,yes,no,no,unknown,Businessman,14319,5
+937295260,63,F,5,Graduate,Unknown,AK,90266,yes,no,yes,cellular,Blue-collar,78525,5
+920868105,74,F,3,Uneducated,Married,TX,86446,yes,no,no,unknown,Selfemployeed,100558,2
+928898923,71,F,0,Post-Graduate,Married,NV,72076,no,no,no,unknown,White-collar,14975,1
+945176955,22,M,2,High School,Single,FL,90660,no,no,no,unknown,Retirees,58590,3
+913718431,56,F,1,Post-Graduate,Single,MI,53012,yes,yes,no,unknown,White-collar,26971,2
+912448136,70,M,2,Doctorate,Single,TX,90201,no,no,no,telephone,White-collar,227434,5
+950992979,26,M,2,Unknown,Single,AK,99504,yes,yes,no,unknown,Retirees,88873,2
+912981052,40,F,4,Post-Graduate,Unknown,IL,72058,no,yes,no,cellular,Retirees,88445,2
+948181396,28,F,3,Unknown,Unknown,VA,91007,yes,no,yes,cellular,Govt,78491,4
+946164955,58,M,1,Post-Graduate,Married,MI,90019,yes,no,no,unknown,Retirees,214196,2
+981030736,37,F,2,Uneducated,Single,MO,91730,yes,no,yes,cellular,Selfemployeed,26037,2
+935503389,23,F,1,Uneducated,Single,HI,90706,no,no,yes,unknown,Businessman,46810,1
+905831819,44,M,0,Uneducated,Married,MO,90250,yes,no,no,cellular,Govt,78452,2
+997942942,33,M,4,Uneducated,Single,AZ,91007,no,no,no,cellular,Govt,14975,3
+961662963,69,F,0,Uneducated,Single,MI,90029,no,no,yes,unknown,Businessman,52547,5
+971971316,28,M,1,Uneducated,Single,WA,91730,no,yes,yes,unknown,Govt,232857,1
+916753883,45,F,1,Unknown,Single,SC,99504,no,no,yes,telephone,Retirees,150458,2
+950806024,72,F,3,High School,Single,AR,90029,no,no,yes,unknown,White-collar,71847,3
+910576383,21,F,2,Post-Graduate,Married,WA,91723,no,yes,no,unknown,Blue-collar,40464,5
+974093639,39,M,2,Uneducated,Single,NY,90025,no,no,no,telephone,Retirees,84276,1
+939349722,47,F,0,Unknown,Married,CO,90670,yes,no,no,unknown,White-collar,94436,3
+984374605,66,F,4,Unknown,Single,SC,54101,yes,yes,yes,unknown,White-collar,14975,2
+983016315,26,F,5,Unknown,Unknown,MN,91106,yes,no,no,telephone,Govt,188604,4
+948537831,63,M,2,High School,Unknown,OH,85260,no,no,yes,unknown,Selfemployeed,58167,4
+977490893,27,M,3,Post-Graduate,Unknown,NE,91615,no,no,no,unknown,Selfemployeed,75496,1
+925808537,66,M,0,High School,Unknown,UT,90706,no,no,yes,telephone,Govt,138936,3
+994566031,54,M,0,Graduate,Married,UT,86446,no,no,no,telephone,Govt,12783,5
+909335534,33,M,5,Unknown,Married,TX,91106,yes,no,no,cellular,Businessman,73696,3
+906150444,36,F,3,Graduate,Single,SC,91007,no,yes,yes,unknown,Businessman,28417,4
+988753260,55,M,4,Doctorate,Unknown,AK,72076,yes,no,yes,cellular,Blue-collar,35666,1
+930587988,69,M,3,Uneducated,Married,SC,72058,no,no,yes,cellular,Blue-collar,45843,2
+938840994,59,M,4,Uneducated,Single,NM,91730,yes,yes,yes,telephone,Blue-collar,111190,3
+910709497,23,F,3,High School,Single,NV,91750,no,yes,yes,unknown,Blue-collar,110472,4
+931244663,21,M,3,Post-Graduate,Married,OR,90277,yes,no,no,unknown,White-collar,102012,5
+913556182,25,M,1,Graduate,Unknown,NE,72058,no,yes,yes,telephone,White-collar,33627,1
+951019678,73,F,0,Post-Graduate,Single,AZ,90255,yes,no,no,cellular,Businessman,77576,2
+937308985,61,M,3,High School,Unknown,GA,91010,no,no,no,telephone,Selfemployeed,1250,3
+960855700,23,F,5,Uneducated,Unknown,OH,90266,yes,yes,no,unknown,Govt,17094,5
+985320121,73,F,3,Post-Graduate,Unknown,AK,53012,yes,no,no,telephone,Selfemployeed,107673,2
+948966946,48,F,2,Post-Graduate,Single,MI,86503,no,no,no,unknown,Retirees,118907,4
+921831063,37,F,0,Uneducated,Unknown,WA,90025,yes,yes,yes,cellular,White-collar,34809,4
+949684848,45,F,2,Graduate,Single,CO,90029,no,yes,yes,unknown,Blue-collar,54462,5
+947683626,63,M,0,Uneducated,Unknown,IL,90026,no,yes,no,cellular,Blue-collar,25825,4
+928119557,53,F,2,Post-Graduate,Single,IA,90291,no,yes,no,cellular,Retirees,80132,1
+989949389,29,F,3,Graduate,Unknown,MA,86503,yes,no,yes,unknown,Selfemployeed,59579,5
+935833156,55,M,3,Graduate,Married,AZ,91010,yes,yes,yes,unknown,Blue-collar,117352,4
+994196727,33,F,1,Uneducated,Unknown,MN,98815,no,yes,no,cellular,Selfemployeed,8250,3
+991744214,50,M,5,Post-Graduate,Unknown,PA,53012,no,yes,yes,telephone,Govt,86061,4
+986977837,67,M,2,High School,Single,UT,90275,yes,yes,yes,unknown,Retirees,37003,1
+909583482,34,M,4,Post-Graduate,Single,CO,91711,yes,yes,yes,cellular,Selfemployeed,35755,2
+981756179,27,F,1,Unknown,Unknown,UT,91724,yes,no,no,cellular,Govt,59508,2
+985225343,33,F,2,Doctorate,Married,FL,90094,no,yes,yes,telephone,Selfemployeed,69463,4
+922969840,42,F,2,High School,Married,OH,53012,no,no,no,unknown,Selfemployeed,28183,2
+971691040,59,M,1,Graduate,Single,VA,90291,no,yes,no,cellular,Blue-collar,67717,4
+997861742,40,F,3,High School,Married,CA,54101,no,yes,no,telephone,Businessman,38851,1
+932857966,35,F,2,Graduate,Unknown,GA,91307,no,yes,no,cellular,White-collar,38855,2
+921931511,64,F,3,Graduate,Single,HI,72058,yes,yes,no,unknown,Selfemployeed,50295,3
+962043515,37,M,1,High School,Unknown,NJ,53022,no,yes,yes,telephone,Selfemployeed,95787,4
+950929647,66,M,3,Graduate,Single,IA,91007,yes,yes,no,cellular,Selfemployeed,150731,2
+936231783,72,F,0,Graduate,Single,GA,90094,yes,yes,no,telephone,Businessman,7865,1
+985899313,43,F,4,Unknown,Single,WA,53012,no,yes,no,unknown,Govt,14975,1
+992363534,45,F,2,Post-Graduate,Single,NY,91701,yes,no,yes,telephone,Retirees,46348,3
+974752529,44,F,5,Post-Graduate,Married,NM,90094,no,yes,yes,unknown,Blue-collar,23287,1
+929476249,64,M,4,Doctorate,Unknown,FL,90026,yes,no,yes,cellular,Businessman,48074,1
+991887369,60,M,3,Doctorate,Unknown,GA,86503,no,yes,yes,unknown,Govt,91345,2
+943524491,48,M,2,Unknown,Unknown,HI,72120,no,no,yes,cellular,Selfemployeed,9535,4
+907507864,34,M,3,Doctorate,Single,WA,72076,yes,yes,yes,cellular,Govt,40116,5
+930742311,64,F,0,High School,Married,HI,91010,no,yes,yes,unknown,Businessman,58959,1
+904308421,20,F,1,Uneducated,Unknown,PA,86446,yes,yes,no,cellular,Businessman,171082,1
+942339391,44,F,2,Uneducated,Married,MI,54101,no,no,no,telephone,Businessman,15371,5
+953843426,26,M,0,Uneducated,Single,WA,91724,no,no,yes,cellular,Retirees,26557,1
+935935572,28,F,0,Unknown,Unknown,MO,53010,no,no,no,unknown,White-collar,68480,2
+908883684,43,M,2,Unknown,Married,NV,98815,yes,no,no,telephone,Blue-collar,12937,2
+928317637,20,M,3,Graduate,Single,TX,91307,yes,yes,yes,telephone,Retirees,117065,5
+976125617,63,F,5,Uneducated,Married,SC,91010,no,yes,no,cellular,Retirees,71942,1
+996356822,27,F,0,High School,Unknown,IL,53010,yes,yes,no,cellular,White-collar,122187,1
+942235350,43,F,4,Doctorate,Unknown,OR,90025,no,no,yes,unknown,Retirees,65704,4
+928538251,30,M,0,High School,Single,VA,53010,yes,yes,no,telephone,Businessman,14405,1
+987971488,70,F,5,Doctorate,Single,NY,91750,yes,no,yes,unknown,Businessman,109906,2
+967005685,36,M,3,Uneducated,Single,MI,91711,no,no,yes,cellular,Govt,55954,3
+953100814,27,F,3,Uneducated,Married,MO,99504,no,no,no,telephone,Selfemployeed,69712,3
+986282117,54,M,4,Uneducated,Married,FL,90036,no,no,no,unknown,Retirees,25321,3
+961586053,54,M,0,Unknown,Married,PA,90094,no,no,no,unknown,Selfemployeed,88881,3
+919175900,52,F,3,Doctorate,Single,OR,90201,no,yes,yes,unknown,Blue-collar,95433,1
+935551614,24,M,5,Unknown,Unknown,SC,91711,yes,no,yes,unknown,Businessman,112250,1
+918740864,61,M,2,Unknown,Unknown,VA,91307,yes,no,yes,unknown,Govt,177883,4
+933101783,58,F,1,Post-Graduate,Married,IA,90670,no,yes,no,telephone,Blue-collar,212509,1
+999990728,60,M,1,High School,Married,NV,90201,no,no,no,unknown,Govt,117015,3
+975345555,47,F,1,High School,Unknown,VA,90255,no,no,yes,telephone,White-collar,19514,5
+972340307,26,M,0,Graduate,Unknown,MI,90029,yes,yes,no,unknown,Businessman,80158,5
+935264581,28,F,4,Unknown,Married,AZ,72120,no,yes,no,cellular,Blue-collar,50822,2
+978461803,27,F,3,Doctorate,Married,AK,72120,no,yes,yes,cellular,White-collar,10629,2
+957503414,31,M,2,Post-Graduate,Unknown,MO,91711,yes,no,yes,unknown,Blue-collar,64697,1
+978320463,53,M,5,Post-Graduate,Single,GA,90201,yes,yes,no,cellular,Govt,83458,5
+953606628,52,M,2,High School,Married,OH,53012,yes,yes,yes,telephone,White-collar,28587,3
+948586340,67,M,5,Unknown,Unknown,MA,91701,yes,yes,no,unknown,White-collar,101672,3
+929436733,74,M,0,Graduate,Unknown,AZ,90250,no,no,yes,telephone,Businessman,112356,3
+918566572,42,F,1,Unknown,Unknown,NE,53010,yes,yes,yes,unknown,Selfemployeed,12751,1
+968387461,43,M,0,Uneducated,Unknown,NE,90025,yes,no,yes,cellular,Govt,96179,1
+966238574,56,F,4,Unknown,Single,FL,90026,no,no,no,telephone,Govt,51352,4
+912201654,54,F,4,Uneducated,Unknown,AR,90277,no,yes,no,cellular,White-collar,19227,3
+906323852,63,M,5,Uneducated,Married,CA,90201,no,no,yes,cellular,White-collar,31803,3
+914716857,59,F,3,Graduate,Single,AK,91730,yes,no,yes,unknown,Businessman,35029,1
+920514014,41,F,3,Doctorate,Unknown,WA,72076,no,yes,yes,telephone,Selfemployeed,64868,1
+984214382,46,F,5,High School,Single,OR,90670,yes,no,no,cellular,Govt,41758,4
+921472420,54,F,4,Unknown,Married,SC,72058,yes,yes,yes,unknown,Retirees,207699,4
+991332642,20,M,4,Uneducated,Unknown,MN,53010,yes,no,yes,unknown,Retirees,60800,2
+956661351,54,F,4,Unknown,Married,NJ,90094,no,no,yes,unknown,Selfemployeed,5225,5
+980048665,56,M,0,Doctorate,Unknown,NM,72058,yes,yes,yes,cellular,Blue-collar,17698,3
+908526544,66,M,4,High School,Unknown,GA,53022,no,yes,no,unknown,Businessman,35155,3
+951642594,33,F,2,Doctorate,Unknown,SC,91711,no,no,no,telephone,Selfemployeed,12892,4
+951220073,22,M,1,High School,Unknown,NE,90266,no,no,yes,telephone,Retirees,94436,4
+979978790,20,M,4,Post-Graduate,Unknown,MO,90660,yes,yes,no,cellular,White-collar,50156,2
+962820592,24,M,5,High School,Single,NM,91701,yes,no,no,telephone,Retirees,10019,5
+971016525,45,F,1,Graduate,Unknown,IA,91723,yes,no,no,unknown,White-collar,16988,2
+933744231,74,M,0,Doctorate,Unknown,TX,90029,no,no,yes,cellular,Businessman,18499,5
+974252722,33,M,5,Uneducated,Single,WA,90302,yes,no,no,unknown,White-collar,28017,3
+901540956,58,M,1,Post-Graduate,Single,NE,91701,yes,yes,no,cellular,Selfemployeed,47003,2
+991306093,46,F,5,Graduate,Single,GA,90291,yes,yes,no,cellular,White-collar,207019,4
+996733645,28,M,0,Unknown,Single,CA,99504,yes,yes,yes,unknown,Blue-collar,118577,2
+915374874,34,F,2,Doctorate,Single,UT,91750,yes,yes,yes,telephone,Selfemployeed,59766,2
+991497616,34,F,0,Uneducated,Single,NE,72058,no,yes,no,telephone,Businessman,14975,3
+972070937,45,F,0,High School,Unknown,WA,90036,no,yes,no,cellular,Selfemployeed,10115,4
+935812670,61,F,5,Uneducated,Unknown,NJ,90660,no,no,yes,unknown,Blue-collar,27861,4
+986028436,32,F,3,Unknown,Married,AR,91730,no,yes,yes,unknown,Businessman,16162,1
+945657579,70,F,4,Post-Graduate,Unknown,GA,91010,yes,no,no,cellular,Retirees,80933,1
+914972279,51,M,4,Post-Graduate,Unknown,NM,90019,no,no,no,telephone,Blue-collar,29542,1
+939392920,58,F,2,Doctorate,Single,OH,54101,yes,no,yes,unknown,Businessman,38022,3
+958353204,68,M,2,Post-Graduate,Single,IL,85260,no,yes,yes,telephone,White-collar,105947,2
+921227574,71,M,4,Doctorate,Unknown,TX,90266,no,no,no,telephone,Selfemployeed,31487,4
+960897765,51,F,3,Doctorate,Married,AR,91730,no,yes,yes,cellular,Businessman,238789,4
+900435578,23,M,4,Doctorate,Single,MA,90036,yes,no,no,cellular,Selfemployeed,96616,2
+996917555,49,M,3,High School,Unknown,GA,90291,yes,no,no,telephone,White-collar,43232,4
+996593904,56,M,2,Graduate,Unknown,AR,90019,no,yes,no,unknown,Businessman,59174,2
+935351479,42,M,1,Doctorate,Married,OR,98815,yes,no,yes,unknown,Retirees,56551,3
+967187530,58,F,5,Doctorate,Married,TX,90201,no,no,no,cellular,Blue-collar,48447,3
+923978249,64,M,2,Graduate,Single,NE,91724,no,no,no,telephone,Businessman,90696,3
+968139880,34,F,2,Uneducated,Married,UT,98815,no,no,yes,unknown,White-collar,35021,2
+914282218,62,M,0,Doctorate,Unknown,FL,91711,yes,yes,yes,unknown,Businessman,53784,2
+983926371,48,M,0,High School,Unknown,PA,91010,no,no,no,cellular,Selfemployeed,72978,5
+940056581,55,F,0,Post-Graduate,Married,NY,91750,no,no,no,telephone,Govt,82832,4
+985758349,32,M,5,Post-Graduate,Married,VA,90670,no,yes,yes,unknown,Businessman,50643,4
+968137358,51,M,0,Unknown,Married,MO,72058,yes,no,yes,cellular,Retirees,29732,5
+981734598,26,M,3,Unknown,Married,WA,91723,no,no,yes,unknown,Businessman,104569,5
+926697396,70,F,4,Post-Graduate,Single,OH,91750,yes,no,no,unknown,Blue-collar,213396,3
+920513739,41,M,1,Post-Graduate,Married,FL,91750,no,no,no,unknown,Businessman,48985,5
+950185867,47,F,2,High School,Single,MO,90201,yes,yes,no,cellular,Govt,35570,2
+921682744,21,M,3,Graduate,Unknown,MO,72120,no,no,yes,telephone,Selfemployeed,10636,1
+972394227,61,F,1,Unknown,Married,MN,90706,no,yes,no,cellular,Businessman,14975,2
+971182864,64,F,3,Graduate,Single,HI,90670,yes,no,yes,telephone,Retirees,133174,5
+900076758,72,M,3,High School,Married,CA,90029,yes,no,no,unknown,White-collar,45461,4
+980388981,25,M,2,Post-Graduate,Unknown,AZ,72076,no,no,yes,telephone,Businessman,14975,2
+943507489,47,F,4,Doctorate,Unknown,MI,86503,yes,yes,no,unknown,Businessman,6550,4
+965579548,47,F,0,Graduate,Unknown,NE,90266,no,no,no,unknown,Blue-collar,79075,2
+902614124,63,M,5,Post-Graduate,Married,MN,90706,no,no,yes,cellular,Retirees,39904,4
+915014631,63,F,4,Post-Graduate,Married,WA,90706,no,yes,yes,unknown,Govt,52541,2
+948718453,39,M,5,Uneducated,Single,MA,54101,yes,yes,no,cellular,White-collar,30789,4
+941273847,49,M,2,Graduate,Unknown,NY,85260,no,yes,yes,telephone,Selfemployeed,35530,1
+932138745,30,M,2,Doctorate,Married,IL,90706,yes,yes,yes,telephone,Businessman,14975,3
+907774584,74,M,2,Graduate,Unknown,UT,90029,no,no,no,unknown,Govt,158764,2
+932329237,47,F,1,Post-Graduate,Unknown,CO,90706,yes,no,yes,cellular,White-collar,132948,1
+976149359,44,M,5,Doctorate,Single,NV,90275,yes,no,no,unknown,Selfemployeed,119336,3
+910570592,58,F,4,High School,Single,NY,90250,no,no,no,cellular,Govt,13307,2
+911496211,52,M,4,Uneducated,Single,TX,72076,yes,yes,yes,cellular,Retirees,23908,1
+998234974,20,F,3,Post-Graduate,Single,CA,90275,no,no,yes,cellular,Retirees,16430,1
+965228535,46,M,3,Unknown,Unknown,FL,90266,no,no,no,telephone,White-collar,56079,1
+909289546,71,F,3,Unknown,Single,TX,72120,no,no,no,cellular,Selfemployeed,64794,5
+971498611,32,F,2,Uneducated,Single,CT,90026,no,no,no,telephone,Retirees,14975,4
+916879290,60,M,4,High School,Single,NE,85260,no,yes,no,cellular,White-collar,14975,3
+917232410,22,M,5,Post-Graduate,Single,SC,98815,yes,no,no,telephone,Retirees,44733,4
+988550256,58,M,2,Graduate,Unknown,OR,72076,no,no,no,telephone,Retirees,15699,4
+963791320,25,M,1,Uneducated,Single,MI,90250,yes,no,yes,telephone,Govt,56736,4
+973793389,27,F,3,High School,Unknown,PA,91701,yes,yes,yes,unknown,Govt,64201,1
+922162965,46,M,2,Graduate,Married,OH,90670,no,yes,yes,cellular,Retirees,73450,4
+935575298,28,F,2,Unknown,Unknown,MN,53010,yes,no,no,unknown,Blue-collar,6550,5
+970823176,56,F,1,Unknown,Unknown,NM,91711,no,no,yes,cellular,Govt,62397,2
+981415657,52,M,0,Graduate,Single,CO,91724,yes,no,no,cellular,Selfemployeed,120016,1
+956792612,70,F,4,Uneducated,Married,OR,54101,yes,yes,no,unknown,White-collar,217676,3
+928427073,61,F,5,Unknown,Married,OH,91701,yes,no,yes,telephone,White-collar,6550,2
+972383095,63,F,0,Post-Graduate,Married,IL,54101,no,no,no,cellular,Selfemployeed,43203,2
+997969689,43,F,3,Doctorate,Married,PA,91307,yes,no,no,telephone,Selfemployeed,90442,2
+992592466,34,M,2,Graduate,Unknown,VA,90250,no,yes,no,unknown,Selfemployeed,114799,4
+926998038,73,M,1,Graduate,Married,PA,90250,yes,no,no,telephone,Selfemployeed,77019,4
+995690391,51,M,1,Unknown,Unknown,CA,90277,yes,no,no,cellular,Businessman,13404,1
+941837852,51,M,4,Uneducated,Unknown,TX,90025,yes,yes,no,cellular,White-collar,14975,4
+953551839,43,F,0,Post-Graduate,Unknown,VA,90706,yes,yes,yes,cellular,Businessman,45107,4
+990152297,60,F,4,Uneducated,Married,MI,90275,no,no,no,unknown,Retirees,15309,4
+987225156,71,M,2,High School,Single,AZ,90275,no,yes,no,cellular,Retirees,57229,1
+950119651,68,M,4,High School,Single,MI,85260,yes,no,no,unknown,White-collar,14975,1
+958800797,68,M,5,Doctorate,Married,NM,72023,yes,yes,no,telephone,Retirees,97099,5
+969467853,71,F,1,Unknown,Single,MA,72120,no,yes,yes,cellular,Selfemployeed,40188,5
+960597444,31,M,1,Unknown,Single,HI,91007,no,no,yes,cellular,Businessman,74427,5
+916240908,58,M,3,Unknown,Unknown,FL,72076,no,no,no,cellular,Selfemployeed,13249,5
+933273328,21,M,3,Doctorate,Unknown,AZ,90706,no,no,no,telephone,Retirees,76660,2
+930158366,22,F,2,High School,Married,MN,72076,yes,yes,no,cellular,Govt,16689,2
+908593410,68,F,5,Uneducated,Married,AK,91007,yes,no,yes,unknown,Businessman,98582,5
+945377076,56,F,0,Doctorate,Single,MO,91307,no,no,yes,telephone,Selfemployeed,18058,5
+902823170,68,F,4,Doctorate,Unknown,NV,91106,no,no,yes,telephone,White-collar,17589,3
+978961459,75,F,2,Uneducated,Married,IL,72076,no,no,yes,telephone,Selfemployeed,47974,2
+974346088,36,F,3,Unknown,Married,NY,91615,no,no,no,telephone,Govt,18012,3
+930885476,68,F,4,Post-Graduate,Married,MA,72058,no,yes,yes,telephone,Retirees,215855,3
+978979095,21,F,3,Uneducated,Married,AR,53012,no,no,yes,unknown,Businessman,100839,4
+929557077,21,M,4,High School,Married,AK,90706,yes,no,no,telephone,White-collar,116816,1
+900965138,47,M,0,Graduate,Married,AR,72023,yes,yes,no,cellular,Businessman,58639,2
+909528530,73,F,2,Graduate,Single,CA,91750,yes,no,yes,telephone,White-collar,13011,5
+995004803,42,F,4,Doctorate,Unknown,MI,72076,no,no,yes,telephone,Businessman,116246,5
+984705205,56,M,5,Graduate,Unknown,PA,91615,no,no,yes,telephone,Retirees,14975,1
+907901903,51,F,1,Post-Graduate,Married,AZ,91106,no,no,yes,telephone,White-collar,114768,2
+930728046,52,F,5,Unknown,Unknown,CT,85260,yes,no,no,telephone,Blue-collar,116816,5
+909046318,20,F,5,High School,Unknown,PA,90250,no,yes,no,unknown,Businessman,13556,5
+904216175,38,M,1,Post-Graduate,Unknown,HI,90275,no,yes,yes,unknown,Businessman,92296,4
+944349361,21,M,5,High School,Married,NY,91723,yes,yes,yes,telephone,Selfemployeed,73510,3
+909510312,72,M,4,High School,Married,OH,72120,no,no,yes,unknown,White-collar,14975,5
+969008866,63,M,4,Unknown,Unknown,AR,90025,yes,yes,yes,cellular,Govt,44296,2
+931944441,45,M,4,Doctorate,Unknown,AK,72058,yes,no,yes,telephone,Blue-collar,50153,1
+937376585,51,F,1,Graduate,Married,UT,86503,no,no,no,cellular,Retirees,35155,4
+989788677,25,M,5,Unknown,Single,CA,91730,yes,no,no,cellular,Selfemployeed,11385,2
+965151231,51,F,1,Post-Graduate,Unknown,PA,86503,no,yes,no,telephone,Blue-collar,84581,4
+928754377,74,F,4,Doctorate,Single,IL,90025,yes,yes,yes,cellular,White-collar,12646,3
+972374753,23,M,5,Post-Graduate,Unknown,VA,54101,no,yes,yes,cellular,Blue-collar,79829,5
+917758595,74,M,5,Doctorate,Single,CO,91730,yes,no,no,cellular,Businessman,40305,2
+997086737,30,F,3,Post-Graduate,Single,UT,91615,no,yes,no,telephone,Businessman,14975,1
+976644106,75,F,3,Unknown,Single,HI,99504,yes,no,yes,telephone,Selfemployeed,216587,3
+977337818,36,F,0,Doctorate,Married,PA,98815,yes,yes,no,cellular,White-collar,14975,3
+963440831,57,M,2,Doctorate,Single,IL,90094,yes,yes,yes,telephone,White-collar,14975,4
+932614537,43,M,3,High School,Single,AZ,90266,no,no,yes,telephone,Blue-collar,78680,3
+963481353,24,M,1,High School,Single,PA,53012,no,no,no,cellular,Selfemployeed,10618,2
+954634663,71,M,3,Uneducated,Unknown,IA,72120,yes,yes,no,telephone,White-collar,65766,4
+925556386,53,M,0,Post-Graduate,Single,MN,98815,no,yes,no,unknown,Govt,62941,3
+912660194,25,F,5,High School,Unknown,NJ,90291,yes,yes,yes,telephone,Govt,14975,1
+913009833,41,M,0,Uneducated,Single,CA,90019,no,no,yes,unknown,Businessman,14975,2
+988447167,30,F,5,High School,Single,MO,99504,yes,no,no,cellular,Blue-collar,147447,1
+957854710,67,F,5,Post-Graduate,Married,CT,90266,no,yes,yes,telephone,Retirees,115815,1
+947553014,35,F,2,Doctorate,Unknown,WA,72023,yes,yes,yes,cellular,Businessman,35064,4
+956851760,52,M,3,Graduate,Single,AR,90019,yes,no,yes,cellular,Selfemployeed,14975,5
+955177213,28,M,1,Post-Graduate,Unknown,AR,86503,yes,yes,no,cellular,White-collar,1250,4
+962682989,25,M,1,Unknown,Unknown,FL,72076,yes,no,yes,cellular,Businessman,79383,2
+997854904,35,F,4,High School,Married,AZ,90036,no,no,no,cellular,Retirees,29782,2
+907270733,48,F,5,High School,Married,GA,53022,yes,no,no,telephone,Retirees,49845,4
+990377459,22,F,1,Doctorate,Married,MI,90029,no,no,yes,unknown,Govt,66315,5
+987705310,39,F,2,Unknown,Married,NV,90277,no,no,no,telephone,Selfemployeed,72630,4
+986728778,55,F,5,Doctorate,Married,VA,91701,yes,no,yes,telephone,Businessman,51116,2
+913209423,38,F,2,Unknown,Married,NM,90302,no,yes,no,telephone,Blue-collar,34279,5
+908135295,45,M,1,Graduate,Married,MI,90019,no,no,no,telephone,Businessman,103047,2
+954038913,22,M,1,High School,Married,UT,91724,no,no,yes,unknown,Govt,72423,5
+997739173,38,M,4,High School,Single,NE,53010,yes,yes,no,telephone,Retirees,15826,5
+945540424,39,M,1,Graduate,Unknown,NV,91701,no,no,no,cellular,Selfemployeed,72565,4
+914665841,51,F,5,Uneducated,Married,TX,90036,no,yes,no,telephone,Selfemployeed,40733,4
+933374088,26,F,5,Doctorate,Married,NJ,90250,yes,no,yes,telephone,Blue-collar,197655,4
+925714784,71,M,5,Graduate,Unknown,AK,90025,yes,yes,yes,unknown,Selfemployeed,70048,5
+925529407,60,F,4,Doctorate,Single,MI,90302,no,yes,no,unknown,Govt,67052,5
+971979055,52,M,4,Post-Graduate,Unknown,NE,53010,yes,no,no,cellular,Govt,64142,2
+960211891,59,M,1,High School,Unknown,GA,90250,no,no,no,telephone,Govt,106491,1
+918814949,58,M,0,Doctorate,Married,VA,91615,no,no,yes,telephone,Selfemployeed,67145,4
+956623995,37,F,0,Unknown,Unknown,MA,90277,no,no,yes,telephone,Selfemployeed,53611,2
+924627347,59,M,4,Doctorate,Unknown,PA,72120,yes,yes,no,cellular,Govt,62038,2
+937385696,20,M,1,Post-Graduate,Married,UT,72058,no,yes,yes,unknown,Selfemployeed,109854,3
+962092888,30,M,0,High School,Married,AR,91615,yes,yes,yes,cellular,Selfemployeed,110911,4
+933528453,47,F,1,Graduate,Married,NV,90291,yes,no,yes,telephone,Retirees,114988,2
+910117988,44,F,1,Post-Graduate,Married,AR,91723,no,yes,yes,unknown,Businessman,19938,3
+959476001,69,M,1,High School,Unknown,UT,53022,yes,no,no,unknown,White-collar,97200,4
+973863413,42,F,3,Doctorate,Unknown,NE,91307,yes,no,yes,cellular,Selfemployeed,14975,5
+913141087,50,F,5,Uneducated,Single,OR,90250,yes,yes,yes,unknown,White-collar,47271,3
+906789850,49,F,1,Uneducated,Single,IA,90094,yes,no,no,unknown,White-collar,20669,5
+987529405,61,F,3,Unknown,Unknown,GA,90660,yes,yes,no,telephone,Retirees,97807,1
+972556484,54,F,4,High School,Single,AK,90706,no,no,yes,telephone,Selfemployeed,52187,1
+901980765,26,F,0,Uneducated,Unknown,UT,91615,yes,yes,yes,unknown,Govt,116439,1
+912517517,35,F,5,Graduate,Single,FL,90025,no,no,no,unknown,White-collar,48210,1
+931726318,45,F,0,High School,Married,FL,90025,no,yes,no,cellular,Selfemployeed,29043,2
+922321899,67,F,5,Graduate,Single,NV,90706,no,yes,no,cellular,Blue-collar,55187,1
+954547971,71,F,0,Graduate,Married,NY,86446,no,no,yes,unknown,Govt,35281,2
+965181648,68,M,5,Uneducated,Married,MI,91007,no,no,yes,telephone,Blue-collar,56615,2
+964606833,21,M,0,High School,Married,IA,91701,no,yes,no,unknown,Blue-collar,46596,4
+928688676,20,F,0,Doctorate,Married,UT,91615,yes,no,yes,unknown,White-collar,66000,2
+953826716,67,M,0,Post-Graduate,Single,MI,90670,yes,no,no,telephone,Blue-collar,34503,2
+907869910,31,M,0,Uneducated,Unknown,FL,90250,yes,no,yes,telephone,Retirees,20157,1
+922097220,24,F,4,Uneducated,Married,WA,72076,no,yes,no,cellular,Retirees,68950,2
+950864911,56,F,1,Doctorate,Single,NJ,90670,yes,yes,no,cellular,White-collar,31796,5
+900289289,51,F,2,High School,Married,NV,91750,yes,no,yes,cellular,Selfemployeed,10341,1
+952401521,74,M,3,High School,Single,IL,91307,yes,no,yes,cellular,Businessman,25028,3
+935594951,28,M,2,Graduate,Single,AR,90670,no,yes,yes,telephone,Selfemployeed,11582,1
+961070189,60,F,2,Doctorate,Single,FL,90660,yes,no,yes,unknown,Selfemployeed,95230,2
+938285503,54,F,5,Doctorate,Unknown,NJ,85260,no,yes,yes,cellular,Selfemployeed,88734,5
+956775103,38,F,1,High School,Single,HI,90094,yes,no,yes,cellular,Selfemployeed,5525,1
+993494928,67,M,5,Graduate,Single,UT,90291,no,no,no,telephone,Govt,14975,5
+998046763,35,M,1,Uneducated,Unknown,IL,91010,no,no,yes,telephone,Businessman,69005,3
+974593961,22,M,1,Unknown,Unknown,HI,53010,no,yes,no,unknown,Govt,63139,3
+988834863,39,M,0,Post-Graduate,Single,AZ,90275,yes,yes,no,unknown,Blue-collar,34732,4
+996423126,43,F,4,Uneducated,Unknown,MN,90255,yes,yes,yes,telephone,Selfemployeed,84658,4
+965319931,73,F,0,High School,Married,MA,90277,no,yes,no,cellular,Retirees,74111,1
+920776478,75,F,4,Post-Graduate,Married,OR,86446,yes,no,no,cellular,White-collar,9535,4
+925487660,52,F,5,Unknown,Unknown,NM,90291,no,no,yes,cellular,White-collar,95534,5
+939823450,43,M,4,Unknown,Unknown,AZ,53010,no,yes,yes,unknown,Govt,57086,4
+929219319,71,M,5,Graduate,Single,MA,53022,yes,no,yes,cellular,Govt,54376,5
+907849494,30,F,2,Post-Graduate,Unknown,IL,91007,yes,no,no,cellular,Retirees,57981,4
+977736262,68,F,2,Graduate,Single,CA,91701,yes,yes,yes,telephone,Selfemployeed,16153,4
+998748972,27,M,4,Uneducated,Married,NM,53010,no,no,yes,cellular,Businessman,24410,4
+972772208,55,F,4,Doctorate,Unknown,AZ,90036,no,no,yes,telephone,Blue-collar,15641,2
+908181586,57,M,5,Doctorate,Single,NY,91711,yes,yes,yes,cellular,White-collar,37310,2
+942091325,59,F,0,Doctorate,Single,MA,91730,no,no,no,unknown,Blue-collar,23256,4
+907672593,39,F,5,Post-Graduate,Married,NM,91724,yes,no,yes,cellular,Businessman,22575,5
+906729990,54,F,0,Doctorate,Unknown,AZ,91711,no,no,no,cellular,Govt,91316,1
+978406989,67,F,2,Uneducated,Married,MA,53022,yes,yes,yes,telephone,White-collar,12937,3
+963993471,44,F,1,Graduate,Single,MN,90275,yes,yes,no,telephone,Blue-collar,147696,2
+967491435,54,F,4,Post-Graduate,Single,FL,90036,no,no,no,telephone,Govt,11406,4
+971286543,44,F,0,Graduate,Unknown,AZ,86446,yes,no,no,cellular,Businessman,14975,3
+921130263,48,M,5,Post-Graduate,Single,AZ,91711,yes,no,yes,cellular,Blue-collar,14975,2
+907634247,37,M,2,Graduate,Unknown,GA,90275,no,yes,no,unknown,Selfemployeed,25848,1
+968159587,65,M,0,Unknown,Married,OH,72076,yes,yes,yes,cellular,Govt,62985,5
+910752378,37,M,5,Graduate,Unknown,SC,91724,no,yes,yes,unknown,Businessman,7865,4
+924941004,21,M,4,Doctorate,Unknown,NY,53022,yes,no,yes,telephone,Blue-collar,14998,1
+909196777,73,F,4,Unknown,Single,UT,72076,no,no,yes,telephone,Selfemployeed,34758,2
+979864260,54,F,3,Graduate,Single,MN,90660,yes,no,yes,telephone,Selfemployeed,12315,4
+909121552,35,M,1,Post-Graduate,Unknown,GA,90660,yes,no,no,unknown,Businessman,14975,3
+990625494,60,F,3,Post-Graduate,Single,NM,90201,yes,no,yes,cellular,Retirees,6550,5
+931568532,55,M,2,Post-Graduate,Single,NE,90201,yes,yes,no,telephone,White-collar,35093,2
+954193837,52,M,0,High School,Single,HI,90670,no,no,no,cellular,Businessman,14975,5
+916090908,23,F,2,Uneducated,Unknown,OH,72023,no,no,no,cellular,Selfemployeed,39358,4
+976460539,52,F,5,Post-Graduate,Single,AR,90706,no,no,no,telephone,Selfemployeed,79048,1
+933046464,33,F,4,Unknown,Unknown,NE,99504,no,yes,no,unknown,Businessman,60893,5
+977701200,40,M,3,Post-Graduate,Single,AK,91010,no,no,no,cellular,Retirees,9535,3
+979795010,67,F,3,High School,Married,OR,90277,no,yes,no,telephone,White-collar,22973,2
+905334035,39,M,3,Doctorate,Single,OR,90660,no,yes,yes,cellular,Blue-collar,10119,3
+983131979,75,M,2,Unknown,Single,FL,86503,yes,yes,no,cellular,Businessman,42620,5
+911003626,27,M,4,High School,Unknown,OH,90277,yes,yes,yes,cellular,White-collar,13327,1
+956267415,26,F,0,Doctorate,Unknown,AR,72076,yes,yes,no,cellular,White-collar,2565,1
+988231132,22,F,5,Unknown,Single,HI,54101,yes,no,no,cellular,Govt,5525,3
+978339168,36,M,0,Graduate,Married,AK,86503,no,no,no,unknown,Selfemployeed,59739,4
+975863473,52,F,2,Uneducated,Single,NV,90250,no,yes,no,unknown,Blue-collar,23479,4
+970166708,67,F,5,Uneducated,Single,CT,91010,no,yes,yes,telephone,Businessman,8250,1
+942462441,31,F,3,High School,Married,NV,85260,yes,yes,yes,unknown,Selfemployeed,26113,3
+934999379,70,M,1,Doctorate,Unknown,AR,90025,no,no,yes,unknown,Govt,92745,3
+927415205,41,M,2,Uneducated,Single,AK,90019,yes,no,no,unknown,Govt,53616,3
+989889098,74,F,2,Doctorate,Unknown,MA,99504,no,yes,no,cellular,Selfemployeed,48695,5
+996125636,41,M,4,Doctorate,Unknown,VA,54101,no,no,no,cellular,Retirees,62929,4
+942169044,65,F,0,High School,Married,NV,90026,no,no,yes,telephone,White-collar,70329,4
+932035886,49,F,2,High School,Married,NV,90026,no,yes,no,telephone,Businessman,75415,5
+935650176,57,F,2,High School,Unknown,NJ,72120,yes,yes,yes,telephone,Businessman,37550,2
+953121477,57,F,3,Uneducated,Single,AK,90266,yes,no,yes,cellular,Businessman,46959,5
+917566185,64,M,3,High School,Unknown,IL,72023,no,no,no,unknown,Selfemployeed,5225,3
+990152735,70,M,5,Uneducated,Single,UT,72058,yes,no,no,unknown,Retirees,18635,5
+986637649,73,M,1,High School,Single,NY,91010,no,yes,yes,cellular,Blue-collar,66732,3
+940264926,27,F,4,Post-Graduate,Married,GA,85260,no,yes,yes,telephone,Govt,20583,1
+961367643,46,F,1,Doctorate,Single,MN,90706,no,yes,yes,telephone,Selfemployeed,63176,3
+942436584,46,F,5,High School,Single,VA,90706,no,no,no,telephone,Blue-collar,48335,4
+909736572,53,M,3,Unknown,Unknown,OH,91106,yes,no,no,cellular,Govt,14975,5
+901250299,40,F,0,Doctorate,Married,IA,90201,no,yes,no,telephone,Govt,90551,3
+961510041,49,M,3,Doctorate,Single,WA,90266,no,no,no,telephone,Retirees,14975,2
+983370583,52,M,4,High School,Single,NV,91701,yes,yes,no,cellular,White-collar,19091,1
+975563727,47,M,3,Graduate,Married,HI,54101,no,no,no,unknown,Businessman,20085,2
+913419256,66,M,4,High School,Unknown,NJ,86503,yes,yes,yes,cellular,Blue-collar,14975,2
+909832887,52,M,4,Doctorate,Married,IA,91106,no,no,yes,cellular,Selfemployeed,38228,2
+972160068,24,M,4,Unknown,Married,AR,91730,no,no,yes,cellular,Blue-collar,29680,1
+928609087,67,F,5,Doctorate,Single,MO,90302,no,yes,no,cellular,White-collar,6550,1
+967898694,38,F,4,Unknown,Single,CT,91010,no,yes,yes,unknown,Businessman,71005,1
+935594597,23,M,4,Uneducated,Unknown,UT,91723,no,yes,no,telephone,Blue-collar,50508,1
+917778019,54,M,0,Post-Graduate,Single,OH,90036,no,yes,no,cellular,White-collar,14237,2
+946843172,68,F,1,Doctorate,Single,IA,53010,yes,yes,yes,unknown,Selfemployeed,82743,4
+909233013,36,M,2,High School,Married,TX,86503,no,no,no,telephone,Retirees,94374,4
+932787299,63,M,1,Uneducated,Single,UT,90275,yes,yes,yes,telephone,Govt,70909,1
+949597086,47,F,4,Post-Graduate,Unknown,NE,53022,yes,yes,yes,telephone,Selfemployeed,16293,5
+938250360,49,M,0,High School,Married,CO,72023,no,yes,no,cellular,Businessman,2565,3
+921172421,48,M,3,Graduate,Unknown,OH,91723,yes,yes,yes,cellular,Govt,49194,5
+958812137,65,M,0,High School,Married,AZ,90302,no,yes,yes,telephone,Selfemployeed,58730,5
+972909480,72,F,4,Unknown,Single,IL,90094,yes,no,yes,telephone,Selfemployeed,14975,5
+994427530,25,F,0,Unknown,Married,WA,72120,no,yes,yes,telephone,Selfemployeed,14975,4
+940603163,54,F,0,Graduate,Married,NJ,91106,yes,yes,no,telephone,Selfemployeed,107905,3
+982097999,60,M,4,Uneducated,Single,IL,91007,yes,yes,yes,telephone,Govt,227434,5
+987775215,56,M,5,Post-Graduate,Single,IL,85260,no,no,yes,telephone,Businessman,14975,1
+970993218,43,F,0,High School,Unknown,AR,90201,yes,no,yes,unknown,White-collar,65003,4
+901049999,48,M,2,Unknown,Unknown,UT,91723,no,yes,no,telephone,Blue-collar,47979,1
+989639081,68,M,2,Uneducated,Single,CO,90026,no,yes,yes,cellular,Retirees,33437,1
+974437458,65,M,0,Graduate,Single,SC,90302,no,no,no,cellular,Blue-collar,212134,5
+940181935,72,M,5,Doctorate,Single,MI,91307,no,no,yes,cellular,Blue-collar,5225,1
+989038526,50,M,3,Unknown,Married,NY,91711,no,no,yes,telephone,Retirees,1250,3
+913903144,54,F,4,Graduate,Married,NV,90250,yes,yes,yes,cellular,Govt,181977,1
+918024248,52,M,2,High School,Married,NY,91106,yes,yes,no,unknown,Businessman,27340,5
+935496015,71,F,3,Post-Graduate,Single,AR,99504,yes,no,no,telephone,Retirees,37836,1
+915492573,40,M,0,Unknown,Unknown,VA,90670,no,yes,no,cellular,Businessman,76386,4
+914366125,51,F,3,Unknown,Single,IA,91615,yes,no,no,unknown,Govt,25945,4
+999645480,42,M,1,High School,Married,SC,86503,yes,no,no,unknown,Blue-collar,32918,4
+974252420,52,F,2,Doctorate,Married,PA,90277,yes,no,no,cellular,Businessman,72285,2
+920863865,22,M,0,Uneducated,Single,TX,91701,yes,yes,yes,unknown,Govt,77305,4
+936553958,37,F,4,Post-Graduate,Single,SC,91106,yes,no,no,cellular,Govt,80795,4
+937816686,44,M,5,Unknown,Married,NE,90036,no,no,yes,unknown,White-collar,32474,2
+981178885,61,F,0,Post-Graduate,Married,CO,91007,no,yes,no,telephone,Retirees,88059,4
+928270233,50,M,4,Unknown,Married,GA,53010,yes,no,no,telephone,White-collar,101342,5
+996316277,73,F,5,Post-Graduate,Single,NM,91724,no,yes,no,telephone,Blue-collar,42568,4
+946020613,22,F,5,Graduate,Married,GA,85260,no,no,yes,telephone,Retirees,63330,4
+927326368,59,M,0,Unknown,Married,SC,90302,yes,yes,no,telephone,Blue-collar,48695,2
+992274302,65,M,3,Post-Graduate,Unknown,GA,91106,yes,no,no,cellular,White-collar,19125,5
+985125977,43,F,3,Uneducated,Single,NJ,90670,no,no,yes,telephone,Govt,59407,1
+935431319,69,M,5,Graduate,Unknown,AZ,91106,yes,no,yes,telephone,Blue-collar,28402,3
+967834855,51,F,3,Graduate,Unknown,AK,90291,no,no,yes,telephone,Retirees,76141,5
+965569635,66,F,1,Uneducated,Married,NE,90019,no,no,yes,telephone,Retirees,2565,1
+933704923,41,F,5,Post-Graduate,Single,NE,91007,yes,yes,no,unknown,Blue-collar,109854,5
+906818112,42,M,5,High School,Married,NJ,90029,no,yes,yes,telephone,Retirees,14975,1
+912388090,21,F,4,Uneducated,Single,OR,90250,no,no,no,telephone,Govt,100614,1
+985132217,46,F,3,Post-Graduate,Unknown,UT,72120,no,no,no,cellular,Govt,35216,5
+956851377,61,M,5,Uneducated,Single,HI,91307,yes,no,yes,unknown,Retirees,87802,2
+937135391,21,M,1,Uneducated,Married,OH,90291,yes,yes,no,cellular,Blue-collar,33439,5
+905917225,45,M,4,Unknown,Married,TX,91615,yes,yes,yes,telephone,White-collar,67917,5
+900475894,36,M,0,Post-Graduate,Married,IA,90025,yes,no,no,cellular,Retirees,13328,1
+944769200,59,F,5,High School,Single,AK,90277,no,yes,yes,cellular,Retirees,57264,3
+917558317,52,F,1,Unknown,Unknown,NM,91701,yes,no,yes,telephone,Retirees,14975,1
+985511909,28,F,2,Uneducated,Unknown,NM,91307,yes,no,yes,unknown,Retirees,14379,4
+935159040,62,F,1,Doctorate,Single,CA,53010,yes,no,yes,unknown,Blue-collar,97182,5
+921687165,73,M,1,Uneducated,Married,HI,90660,yes,yes,yes,cellular,White-collar,61058,5
+999486328,67,F,4,Uneducated,Unknown,IL,91723,no,no,yes,telephone,White-collar,170823,2
+959302158,58,F,0,Post-Graduate,Married,MA,90670,no,no,no,cellular,Businessman,66582,1
+974045292,48,M,2,Post-Graduate,Single,NM,90025,no,no,no,cellular,Retirees,93526,2
+994713081,61,F,3,Unknown,Married,CO,90302,yes,yes,no,cellular,Retirees,190888,5
+957403166,74,F,3,High School,Unknown,AZ,91724,yes,yes,yes,telephone,Businessman,63708,1
+975283645,45,F,1,Unknown,Unknown,NY,85260,no,yes,no,telephone,White-collar,26521,1
+901297845,54,F,4,Graduate,Married,CA,90291,yes,no,yes,unknown,Selfemployeed,72829,4
+915015458,69,F,4,Uneducated,Single,NV,98815,yes,yes,no,telephone,Govt,14975,4
+910099059,44,F,3,Doctorate,Married,CT,72023,no,no,no,cellular,Selfemployeed,32007,3
+992747083,43,M,2,Uneducated,Single,SC,90025,no,yes,yes,cellular,White-collar,14975,4
+920005727,32,M,0,Uneducated,Married,MA,91007,yes,no,no,unknown,Retirees,32132,1
+973227889,26,F,2,Unknown,Unknown,NE,90036,yes,yes,no,telephone,Selfemployeed,44739,4
+904835614,55,F,5,Doctorate,Single,AK,98815,yes,no,no,cellular,Blue-collar,37270,3
+949555330,64,M,5,Doctorate,Single,NE,72076,no,yes,yes,unknown,Blue-collar,91434,5
+978183110,39,F,0,Doctorate,Single,MO,90201,no,yes,no,unknown,Businessman,42224,4
+974158663,20,F,3,Unknown,Unknown,NM,98815,no,yes,yes,cellular,White-collar,178027,1
+919876811,27,F,0,Uneducated,Married,AZ,91007,no,no,no,cellular,White-collar,78702,5
+957684996,65,M,4,Unknown,Unknown,HI,98815,yes,yes,no,telephone,Selfemployeed,7865,1
+917105448,35,F,5,Post-Graduate,Single,PA,91615,no,yes,no,unknown,Retirees,36894,5
+905614174,33,M,1,Post-Graduate,Married,NY,99504,no,yes,no,cellular,White-collar,117030,1
+941373735,31,F,1,Unknown,Unknown,MN,53022,yes,yes,yes,unknown,Selfemployeed,14975,4
+948942697,70,M,3,Doctorate,Single,NM,99504,yes,no,no,telephone,Selfemployeed,34145,4
+905354599,42,M,4,Uneducated,Single,TX,99504,yes,yes,yes,cellular,Govt,6550,3
+948024342,34,F,2,Unknown,Unknown,MI,53012,no,no,yes,telephone,Govt,69653,5
+928195995,47,M,4,Unknown,Unknown,CA,90706,yes,no,no,unknown,White-collar,64324,3
+991545441,53,F,1,Unknown,Unknown,MN,91615,yes,no,no,telephone,Selfemployeed,24393,2
+933491314,21,M,1,Graduate,Single,AR,86503,no,no,yes,telephone,Businessman,23179,4
+989514287,51,F,5,Post-Graduate,Unknown,MI,86503,no,yes,yes,unknown,Businessman,61117,5
+913796726,42,F,4,Doctorate,Single,CT,90019,yes,no,no,telephone,Govt,73371,3
+947469942,41,M,4,High School,Unknown,MI,98815,no,no,no,unknown,White-collar,35126,3
+975146293,70,F,1,Doctorate,Single,IL,53012,yes,no,no,cellular,Retirees,11963,2
+954543049,44,F,2,High School,Single,GA,91750,yes,no,no,unknown,Businessman,31226,3
+983303777,41,M,3,Graduate,Married,AR,90660,no,yes,no,unknown,Businessman,56214,1
+920743797,41,F,3,Unknown,Unknown,HI,90201,yes,yes,yes,cellular,Govt,71694,4
+931774346,68,F,4,Graduate,Unknown,IA,90025,no,no,no,unknown,Govt,35491,3
+921810617,71,M,3,Graduate,Single,IA,72023,no,no,no,cellular,White-collar,14975,3
+923763566,61,M,1,Uneducated,Single,SC,54101,no,no,yes,cellular,Govt,44057,2
+955337219,25,F,1,Post-Graduate,Single,OH,91010,yes,yes,no,unknown,Blue-collar,10979,1
+903326769,34,F,4,High School,Married,IA,98815,no,yes,no,telephone,Selfemployeed,23179,3
+924073380,73,M,4,Unknown,Married,IL,90706,no,yes,yes,telephone,Businessman,112593,4
+998860009,62,M,5,High School,Single,SC,90255,yes,yes,no,cellular,Blue-collar,53547,4
+944585178,56,F,4,Doctorate,Unknown,NJ,90660,yes,yes,yes,telephone,Retirees,6550,3
+955259205,52,M,2,High School,Unknown,CT,91730,yes,no,no,telephone,Blue-collar,37908,1
+989913412,27,F,3,Doctorate,Married,MI,91615,yes,yes,no,unknown,White-collar,112956,4
+998657752,72,F,4,Post-Graduate,Married,CT,91750,no,yes,no,cellular,Retirees,23812,4
+933308443,63,F,0,Doctorate,Single,GA,91730,no,no,yes,cellular,Retirees,58665,1
+935810056,63,F,5,High School,Unknown,UT,72023,no,yes,yes,unknown,Govt,11504,1
+921367172,24,F,0,High School,Single,HI,99504,yes,yes,yes,telephone,Blue-collar,50295,3
+994123965,58,M,1,Doctorate,Married,AZ,53012,yes,yes,yes,cellular,White-collar,14975,5
+914508349,23,M,3,Graduate,Unknown,NM,90025,no,no,no,telephone,Businessman,115410,2
+951343880,25,M,4,Post-Graduate,Unknown,NJ,91007,yes,yes,yes,cellular,Govt,16146,5
+905197528,64,M,0,Uneducated,Married,WA,54101,yes,no,yes,cellular,Blue-collar,12150,5
+963174945,51,F,3,Unknown,Single,CT,90660,no,no,yes,cellular,Businessman,63689,4
+929854548,71,F,1,High School,Single,NV,72058,no,yes,no,cellular,Blue-collar,5525,1
+926786211,49,F,2,Unknown,Unknown,NM,90660,yes,yes,no,telephone,Govt,18991,4
+961780854,66,F,5,Uneducated,Married,PA,90094,yes,yes,yes,telephone,Businessman,113871,2
+946930359,54,M,3,Unknown,Unknown,WA,91010,yes,yes,yes,telephone,Govt,14975,3
+940962024,74,F,3,Uneducated,Married,AZ,90094,no,no,no,telephone,Blue-collar,43782,2
+930547349,59,F,2,Doctorate,Single,MO,90026,no,yes,yes,unknown,Retirees,34852,4
+929920292,71,M,3,Graduate,Married,OH,99504,no,no,yes,cellular,Selfemployeed,52666,4
+903176186,35,M,1,High School,Single,UT,86503,no,no,yes,cellular,Retirees,100055,4
+988588154,32,M,1,Uneducated,Married,NY,99504,no,no,yes,cellular,Govt,35311,4
+925921441,69,M,2,Unknown,Unknown,MO,90036,yes,no,no,unknown,Govt,106054,5
+953481198,61,F,5,High School,Single,NY,91307,yes,no,no,telephone,Govt,61997,3
+944058573,49,F,4,Graduate,Unknown,FL,90029,yes,yes,no,cellular,Businessman,14975,5
+937393469,38,M,0,Doctorate,Unknown,IL,91730,no,no,yes,telephone,White-collar,21122,4
+909317495,36,F,4,High School,Single,NE,91711,no,no,yes,telephone,Govt,92969,1
+937463522,75,F,3,Uneducated,Single,MN,91615,no,yes,no,unknown,Retirees,1250,5
+947130035,38,F,0,Graduate,Unknown,NM,53022,yes,yes,no,unknown,Selfemployeed,80120,4
+986098221,47,M,2,Unknown,Unknown,VA,72058,no,no,no,telephone,Govt,77813,4
+968371272,74,F,2,Graduate,Unknown,IL,90255,no,no,yes,cellular,Govt,101609,3
+953643924,45,M,5,Graduate,Unknown,SC,85260,yes,yes,no,cellular,Govt,115089,2
+991203377,56,F,0,Post-Graduate,Single,TX,86446,no,no,yes,unknown,Businessman,14975,5
+971969657,45,F,1,Graduate,Single,MA,91723,yes,yes,yes,unknown,Govt,49701,5
+944446182,72,F,0,Graduate,Unknown,AR,86503,no,yes,no,unknown,Retirees,72587,5
+903704481,42,M,3,High School,Married,MI,90670,no,no,no,unknown,Blue-collar,38813,4
+915480907,28,F,1,Unknown,Married,MA,91307,yes,yes,yes,unknown,White-collar,21241,3
+935059710,31,M,2,High School,Single,MN,90026,yes,no,no,unknown,Govt,55025,4
+923966966,72,M,0,High School,Unknown,UT,86446,yes,no,no,unknown,Businessman,12584,4
+977925434,20,M,4,Uneducated,Unknown,UT,86503,yes,no,yes,cellular,Retirees,88101,1
+935630292,20,F,5,High School,Single,TX,91724,yes,yes,yes,unknown,Govt,14975,3
+905134794,66,F,4,Post-Graduate,Married,PA,91615,yes,no,yes,unknown,Businessman,46022,5
+914549543,53,F,5,Post-Graduate,Married,PA,54101,no,yes,yes,cellular,Blue-collar,24968,2
+980070438,51,F,3,Uneducated,Married,MO,91711,no,no,yes,cellular,Selfemployeed,117452,5
+958326160,73,M,4,Doctorate,Single,OR,99504,yes,no,no,telephone,Govt,11925,4
+946397338,67,M,0,Unknown,Married,CO,91010,no,yes,yes,unknown,Retirees,40843,3
+997783662,44,M,0,Unknown,Single,NM,72058,yes,no,yes,unknown,Businessman,14975,3
+942101056,59,F,4,High School,Single,CA,90291,no,no,yes,unknown,Businessman,34882,3
+958571795,64,M,0,High School,Unknown,CO,91010,yes,yes,no,unknown,Govt,201510,1
+981363974,72,F,3,Doctorate,Married,CT,54101,no,yes,yes,telephone,Businessman,102430,5
+968642041,20,M,1,High School,Single,FL,90291,no,yes,yes,cellular,Selfemployeed,35049,1
+915521714,35,F,3,Unknown,Married,NE,53022,no,no,yes,cellular,Businessman,5525,2
+951700055,58,F,5,Graduate,Married,IA,91615,no,yes,no,unknown,White-collar,2565,4
+977388337,24,M,3,Post-Graduate,Unknown,FL,91724,no,yes,yes,unknown,White-collar,96333,1
+925511941,41,M,5,Graduate,Married,CA,91307,yes,no,yes,unknown,Businessman,19414,1
+934188276,48,M,0,Graduate,Unknown,AR,90019,yes,yes,yes,telephone,Govt,14975,4
+905957459,74,M,1,Unknown,Single,MO,99504,yes,no,no,telephone,White-collar,71873,3
+995131550,22,F,0,Graduate,Married,MN,91750,no,no,no,cellular,Retirees,146232,4
+958526649,31,M,2,Doctorate,Single,NY,91106,yes,yes,no,unknown,White-collar,32188,5
+900226999,45,M,0,Uneducated,Married,UT,53012,no,no,no,unknown,Businessman,47872,4
+969782527,35,M,5,High School,Single,CA,90026,no,yes,yes,unknown,Govt,41853,3
+972269803,70,F,0,Uneducated,Married,NE,99504,no,yes,yes,unknown,Blue-collar,35040,4
+992188405,56,F,0,Post-Graduate,Married,OR,98815,yes,yes,no,telephone,Govt,26595,1
+996560259,41,M,1,High School,Married,VA,90275,no,yes,no,cellular,Govt,19513,2
+999582853,48,F,0,Graduate,Married,WA,99504,yes,no,yes,cellular,Govt,105980,1
+998923524,33,M,1,Post-Graduate,Married,HI,90302,yes,no,yes,telephone,Retirees,14975,2
+990010234,47,F,4,High School,Married,MO,72120,no,yes,no,unknown,Selfemployeed,92511,4
+926445607,24,F,2,Doctorate,Married,OH,91010,no,yes,no,cellular,Businessman,42278,5
+948884978,66,F,1,Doctorate,Married,OR,91723,yes,no,no,cellular,Selfemployeed,228087,4
+957887757,68,F,5,Doctorate,Married,VA,91730,yes,yes,no,telephone,Blue-collar,33327,3
+909391725,49,M,4,Doctorate,Single,SC,91307,yes,no,yes,unknown,Selfemployeed,15622,4
+989152472,65,M,1,Graduate,Unknown,OR,90019,yes,yes,no,cellular,Businessman,111102,2
+944318698,71,M,1,Uneducated,Married,IA,53012,yes,no,no,unknown,Businessman,21036,1
+983638503,24,F,2,High School,Unknown,MA,90201,yes,no,yes,cellular,Blue-collar,23698,5
+942133044,31,M,5,Graduate,Married,IA,53022,no,no,yes,telephone,Businessman,27661,4
+989038359,35,M,3,Doctorate,Married,IL,90275,yes,yes,yes,unknown,Blue-collar,14975,4
+916726926,45,M,3,Uneducated,Single,MO,91723,yes,yes,yes,telephone,Blue-collar,57598,1
+996603781,45,F,1,Post-Graduate,Single,WA,90277,yes,yes,yes,cellular,Businessman,14975,5
+940308572,67,F,0,Post-Graduate,Unknown,NJ,53012,yes,yes,no,telephone,White-collar,102218,4
+968064830,40,F,5,Post-Graduate,Single,IA,90275,no,yes,no,telephone,Blue-collar,14975,4
+941511484,58,M,4,Doctorate,Single,GA,91724,no,no,no,telephone,Businessman,114707,2
+989508850,55,M,0,Post-Graduate,Unknown,FL,91010,yes,no,yes,cellular,White-collar,45652,2
+954813568,52,M,0,Unknown,Single,AR,90670,yes,no,no,unknown,Blue-collar,81670,3
+943779528,49,F,5,High School,Married,MO,90250,yes,no,yes,telephone,White-collar,113431,1
+954009265,56,F,1,High School,Unknown,HI,91106,no,no,no,unknown,Retirees,82832,5
+993577729,42,M,1,Doctorate,Unknown,SC,91106,no,no,no,cellular,Govt,12150,4
+939682169,29,F,1,Unknown,Married,CO,90670,no,no,yes,unknown,Retirees,65446,4
+974411983,73,F,1,Graduate,Single,CT,90275,no,yes,yes,telephone,White-collar,14975,3
+917084279,24,F,3,Graduate,Unknown,GA,86503,no,no,no,telephone,Blue-collar,108680,4
+925748341,55,F,1,Post-Graduate,Unknown,SC,91106,no,yes,no,telephone,Businessman,13330,1
+956431351,53,M,3,Uneducated,Married,MI,91711,yes,no,no,telephone,Selfemployeed,112083,3
+989245317,71,F,3,Graduate,Married,NY,91615,no,no,no,telephone,Businessman,25292,1
+950888017,50,F,1,Uneducated,Single,IL,90255,no,yes,no,telephone,Selfemployeed,208775,3
+990908075,29,F,2,High School,Unknown,SC,91106,yes,no,yes,cellular,Selfemployeed,29683,4
+923357554,38,F,4,Uneducated,Single,NY,91307,no,yes,yes,cellular,Blue-collar,35894,3
+982613013,51,M,0,High School,Single,UT,90277,yes,no,yes,cellular,White-collar,66000,2
+976384014,20,M,3,Unknown,Married,HI,90029,no,yes,yes,unknown,Businessman,17366,5
+940392808,75,F,5,Unknown,Unknown,IL,90094,yes,no,no,unknown,White-collar,32046,4
+954502486,24,F,5,Doctorate,Unknown,AZ,53010,yes,yes,no,cellular,Retirees,116297,5
+973542887,64,F,4,Doctorate,Unknown,NY,91615,yes,yes,yes,unknown,Blue-collar,7865,4
+900054484,23,F,5,Post-Graduate,Married,CO,86503,yes,no,no,unknown,Blue-collar,120016,5
+940785405,35,F,2,Graduate,Married,GA,91701,yes,no,yes,telephone,Retirees,14975,2
+938508907,43,F,5,Post-Graduate,Married,SC,90025,no,yes,no,telephone,Businessman,48097,5
+928210242,35,M,0,High School,Married,MN,90201,no,no,no,unknown,Govt,143951,3
+957698610,74,F,0,Post-Graduate,Married,NV,72058,yes,yes,no,unknown,Retirees,36377,5
+977844239,21,M,3,Uneducated,Unknown,AR,90275,yes,no,yes,cellular,Businessman,5525,4
+981424737,68,M,1,High School,Single,GA,90019,yes,yes,yes,unknown,Selfemployeed,14975,1
+987873101,47,F,2,Doctorate,Unknown,NE,98815,no,no,yes,telephone,Blue-collar,205530,5
+943251559,51,M,3,Unknown,Single,HI,90275,yes,yes,yes,unknown,Businessman,15955,5
+962409658,46,M,2,Doctorate,Married,MN,90250,yes,no,no,cellular,White-collar,25659,5
+959295515,39,M,1,Graduate,Single,NY,91010,yes,yes,no,telephone,White-collar,32495,4
+959345683,43,M,5,High School,Unknown,AR,86503,yes,yes,no,telephone,Blue-collar,37238,5
+990681152,31,M,5,High School,Unknown,MO,90706,no,no,no,telephone,Retirees,108236,4
+928682516,69,M,1,Uneducated,Single,VA,53010,yes,no,yes,telephone,Govt,75594,4
+968608612,54,F,3,Graduate,Married,OR,90275,yes,yes,no,unknown,Retirees,31770,1
+963509974,52,M,1,Unknown,Married,WA,72023,no,yes,no,cellular,Businessman,68867,3
+998779073,52,M,4,High School,Unknown,AZ,91615,yes,yes,no,unknown,Retirees,15421,4
+922775593,70,M,0,High School,Single,TX,72120,yes,yes,yes,unknown,Blue-collar,62274,2
+988429450,62,F,3,Uneducated,Married,PA,90706,no,no,yes,telephone,Businessman,14975,5
+911381064,56,M,2,Post-Graduate,Married,UT,86446,no,yes,yes,cellular,Selfemployeed,39051,2
+938089166,31,F,4,Unknown,Unknown,GA,91724,no,yes,no,telephone,Retirees,25056,5
+969182797,22,M,3,Doctorate,Married,NM,91701,yes,yes,yes,unknown,Retirees,88788,1
+989100953,20,F,1,Graduate,Single,NY,90026,yes,no,no,unknown,Govt,29288,4
+984951883,52,F,1,High School,Unknown,NY,53010,no,yes,no,telephone,Businessman,14975,3
+983115778,59,M,1,High School,Unknown,HI,72058,no,no,no,unknown,White-collar,101682,4
+944988206,29,M,1,Doctorate,Single,CA,90275,no,no,yes,unknown,Retirees,57673,5
+912534217,62,F,2,Unknown,Unknown,MN,72120,yes,no,yes,telephone,Blue-collar,35064,3
+931523529,63,M,4,Post-Graduate,Married,MI,90255,yes,no,no,unknown,Retirees,41820,4
+990301106,48,F,5,High School,Married,NV,98815,no,no,no,cellular,Govt,43110,3
+941663795,32,F,0,Unknown,Single,OH,72076,yes,no,yes,telephone,Selfemployeed,32020,5
+930150759,31,F,2,Doctorate,Married,TX,90706,no,no,yes,cellular,Govt,68267,1
+926726767,50,F,2,Uneducated,Single,NV,91730,yes,yes,yes,unknown,Retirees,114417,1
+919777514,65,F,5,Post-Graduate,Single,GA,91007,yes,yes,no,unknown,White-collar,19334,4
+903278320,21,M,5,Graduate,Married,NJ,53010,yes,no,no,telephone,Retirees,116281,2
+906202700,70,F,0,High School,Single,MI,91615,yes,yes,no,unknown,Businessman,14975,5
+932862209,69,F,0,Unknown,Married,GA,72058,no,yes,yes,telephone,Retirees,183118,4
+963771720,54,M,5,Uneducated,Unknown,OH,85260,yes,no,yes,telephone,White-collar,58577,4
+982043803,42,F,1,Graduate,Unknown,CO,91307,yes,yes,yes,telephone,Businessman,88308,1
+909774839,36,M,2,Unknown,Single,HI,72076,no,no,no,telephone,Blue-collar,2565,3
+961124923,45,M,3,Unknown,Married,NV,91701,yes,yes,no,telephone,Businessman,78272,5
+955625330,27,M,0,Graduate,Married,PA,90291,no,no,yes,cellular,Govt,43171,3
+984525678,48,F,0,Uneducated,Unknown,OR,90302,no,no,no,telephone,Selfemployeed,15953,5
+977265240,45,F,5,Doctorate,Unknown,GA,90250,yes,yes,yes,cellular,Govt,14980,2
+926096655,29,F,4,Uneducated,Married,VA,91711,yes,yes,no,unknown,Businessman,67735,1
+996414756,45,M,3,Post-Graduate,Single,NJ,98815,no,no,yes,telephone,Blue-collar,58946,2
+993463085,53,F,3,High School,Unknown,PA,90670,no,no,no,unknown,Retirees,208619,4
+951536717,70,M,0,Graduate,Single,NE,99504,no,no,no,telephone,Businessman,39112,1
+966354180,60,F,1,Doctorate,Single,CA,91701,yes,yes,yes,cellular,Govt,112593,4
+953640499,26,M,4,Graduate,Unknown,SC,90026,no,yes,yes,cellular,Businessman,69653,2
+932747037,23,F,3,Graduate,Single,CA,91711,no,yes,yes,cellular,Businessman,27768,5
+919806690,72,F,0,Uneducated,Single,NV,90266,no,yes,yes,unknown,Businessman,45287,4
+988054615,69,F,3,High School,Married,MN,91750,yes,no,yes,telephone,Blue-collar,48352,3
+992291118,64,M,4,Post-Graduate,Single,CT,91307,no,no,no,unknown,White-collar,15999,5
+900744212,30,M,4,Unknown,Married,WA,53010,yes,no,yes,cellular,White-collar,101644,5
+914305904,48,F,2,Unknown,Unknown,TX,91615,yes,no,yes,unknown,Businessman,63288,2
+957062156,75,F,5,Graduate,Unknown,AR,90660,no,yes,yes,cellular,Blue-collar,6550,2
+929372360,55,M,5,High School,Married,AZ,90019,yes,no,no,cellular,Blue-collar,119853,1
+923607110,44,M,0,Doctorate,Unknown,MI,53012,no,no,yes,cellular,Businessman,89712,1
+993403697,40,M,4,Uneducated,Single,CO,90660,yes,yes,yes,telephone,Govt,5225,3
+969519112,55,F,2,High School,Single,MO,90302,yes,yes,yes,telephone,Govt,14975,5
+962350830,29,M,2,High School,Single,OH,54101,no,no,no,cellular,Selfemployeed,172959,3
+906740197,56,F,3,Uneducated,Unknown,VA,86503,no,yes,no,unknown,Businessman,14975,3
+974813739,28,M,3,Graduate,Single,GA,72076,no,no,yes,unknown,Selfemployeed,74888,2
+933446826,43,F,2,High School,Unknown,GA,91307,yes,yes,no,telephone,Govt,8250,3
+916288475,54,M,3,Unknown,Single,WA,90094,yes,yes,yes,cellular,Govt,99423,3
+961265269,68,M,4,Uneducated,Married,SC,91750,no,no,no,unknown,Businessman,91441,4
+917896471,54,M,1,Doctorate,Unknown,PA,91750,no,yes,yes,cellular,Selfemployeed,28480,1
+962363359,67,M,4,Post-Graduate,Unknown,AR,90706,yes,no,no,unknown,Selfemployeed,119617,1
+989600766,55,M,2,Graduate,Single,WA,99504,yes,yes,yes,telephone,Businessman,13010,5
+971287314,37,F,2,Uneducated,Unknown,OR,90302,yes,yes,yes,cellular,Selfemployeed,51831,1
+975017682,68,M,4,Post-Graduate,Unknown,PA,91307,no,yes,no,cellular,Retirees,44349,5
+979920257,58,M,3,Post-Graduate,Married,GA,90250,yes,yes,yes,unknown,Govt,78548,4
+942587010,51,M,3,Doctorate,Married,MN,90266,no,yes,yes,unknown,White-collar,6550,1
+959401199,43,F,5,High School,Single,CT,90302,yes,no,yes,unknown,Blue-collar,118490,4
+982228802,42,M,2,Doctorate,Married,CA,90255,yes,yes,yes,cellular,Selfemployeed,12090,1
+996539316,51,F,0,High School,Single,PA,90094,no,no,no,telephone,Selfemployeed,16225,1
+967750178,56,M,5,High School,Single,AK,72076,no,yes,yes,telephone,Blue-collar,41827,4
+957276174,31,M,3,Uneducated,Single,SC,91701,no,no,no,unknown,Selfemployeed,75249,3
+973534128,68,F,4,Uneducated,Unknown,OH,90026,yes,yes,no,telephone,Blue-collar,38451,3
+959849511,74,M,3,Graduate,Married,AK,91010,yes,no,no,unknown,Businessman,14975,3
+921361812,32,F,4,High School,Single,AR,91307,yes,no,no,telephone,Retirees,103210,3
+999811743,42,F,5,Post-Graduate,Married,MI,91307,no,yes,yes,cellular,Retirees,14975,1
+963709724,44,M,2,Unknown,Single,AR,90291,yes,yes,yes,unknown,Govt,158764,2
+960407340,54,F,3,Graduate,Married,NV,90019,no,yes,no,telephone,White-collar,54925,4
+934788100,60,M,4,Uneducated,Married,FL,90025,no,no,yes,cellular,Selfemployeed,45296,2
+933183955,49,M,2,Doctorate,Single,MA,91007,no,no,no,telephone,White-collar,78548,2
+985585469,36,F,0,Graduate,Unknown,TX,90029,yes,yes,yes,cellular,Businessman,51893,5
+937220099,68,F,4,Graduate,Married,FL,90026,yes,yes,yes,cellular,Retirees,187702,3
+969967676,39,F,5,Graduate,Unknown,UT,85260,no,no,yes,telephone,Businessman,89370,1
+965041510,67,F,0,Graduate,Unknown,IA,85260,yes,no,no,telephone,Businessman,33425,3
+984120751,44,M,0,Unknown,Single,CT,90670,no,yes,no,cellular,Selfemployeed,59259,3
+932111036,41,M,1,Doctorate,Single,AR,91730,no,no,yes,cellular,Businessman,119754,2
+936855845,32,F,3,Doctorate,Single,AR,90670,yes,yes,no,cellular,Retirees,66172,5
+959038700,38,M,4,Doctorate,Married,WA,91007,no,yes,no,unknown,White-collar,49607,3
+910399639,68,M,0,High School,Single,UT,90266,no,yes,yes,cellular,Retirees,34927,4
+995770370,55,M,1,Post-Graduate,Single,AZ,90266,yes,no,no,unknown,Selfemployeed,80158,4
+938349783,31,M,5,Doctorate,Married,VA,54101,no,no,yes,cellular,Retirees,114236,3
+931473195,60,F,2,Graduate,Married,VA,54101,no,no,yes,unknown,Blue-collar,85461,2
+936468984,38,F,4,Graduate,Single,WA,53010,no,no,yes,cellular,White-collar,53094,2
+945076693,31,M,0,Doctorate,Single,CO,85260,no,yes,no,cellular,Blue-collar,40213,1
+942910691,28,F,3,Doctorate,Single,WA,91730,no,no,yes,cellular,Blue-collar,72204,5
+972498004,26,F,1,Graduate,Single,HI,90291,no,yes,yes,telephone,Govt,40661,2
+910814950,47,F,0,High School,Unknown,FL,91307,no,yes,no,telephone,Selfemployeed,100075,1
+918572252,33,M,3,Uneducated,Unknown,PA,91007,yes,yes,no,cellular,Businessman,78531,4
+920244148,50,M,0,Uneducated,Single,SC,90019,yes,no,no,unknown,Blue-collar,1250,4
+931039390,71,M,4,Doctorate,Unknown,GA,91010,no,yes,no,unknown,Retirees,71809,4
+951410126,38,F,4,Unknown,Married,UT,72120,no,yes,yes,cellular,Businessman,16202,3
+993140367,66,M,4,Doctorate,Unknown,CT,98815,yes,no,no,telephone,Retirees,25825,5
+920509175,35,M,5,Doctorate,Unknown,IA,90275,yes,yes,no,unknown,Retirees,14977,1
+994813972,72,F,5,Uneducated,Single,AR,90660,yes,no,no,telephone,Businessman,86131,5
+928716269,24,M,1,Graduate,Unknown,CO,54101,yes,no,no,unknown,Businessman,77646,3
+908620650,54,M,4,Doctorate,Unknown,MO,90026,yes,no,yes,cellular,Retirees,13038,1
+955682626,31,F,3,Graduate,Unknown,NY,90660,no,yes,no,telephone,Selfemployeed,14975,1
+954707061,44,F,0,Graduate,Unknown,NE,90029,yes,no,yes,unknown,White-collar,57960,2
+944410148,71,F,2,Unknown,Married,OR,91724,yes,no,no,cellular,Govt,57270,5
+972828034,40,M,3,Graduate,Single,NM,91007,yes,no,yes,cellular,White-collar,169176,5
+962535301,55,M,5,Uneducated,Single,IL,90250,no,no,yes,cellular,Selfemployeed,61803,2
+955804273,72,M,5,High School,Married,IL,90029,no,yes,no,telephone,Govt,28065,4
+908357162,42,F,3,High School,Unknown,NJ,91730,no,no,yes,telephone,Businessman,51893,3
+927760841,35,F,5,Post-Graduate,Married,CA,91750,no,yes,no,cellular,Govt,109276,5
+956390708,58,M,4,Doctorate,Unknown,AZ,72076,no,no,yes,telephone,Retirees,21500,2
+952274692,64,M,1,Uneducated,Married,MO,72058,no,yes,yes,unknown,White-collar,25840,1
+978393811,72,F,0,Graduate,Single,NJ,90266,yes,no,yes,cellular,Govt,20975,2
+993351515,61,F,1,High School,Single,TX,72023,no,yes,no,cellular,Retirees,14975,4
+902621534,58,F,0,Uneducated,Single,AR,90660,no,no,yes,telephone,Selfemployeed,21580,3
+977267850,33,F,0,High School,Unknown,NM,90019,yes,yes,no,cellular,Govt,10406,4
+951053877,50,M,1,Graduate,Unknown,GA,90025,no,yes,yes,unknown,Retirees,79857,1
+964019136,24,F,3,High School,Married,IA,91711,yes,yes,yes,telephone,Selfemployeed,25397,1
+900791358,54,M,0,Doctorate,Married,CT,91010,yes,no,yes,telephone,Businessman,21987,1
+947212267,42,M,1,Doctorate,Single,IA,54101,no,yes,yes,cellular,Selfemployeed,33801,1
+940079111,48,M,0,Post-Graduate,Unknown,GA,90029,yes,yes,yes,cellular,Selfemployeed,17464,2
+952343121,62,F,2,Post-Graduate,Married,AR,91010,yes,yes,yes,cellular,White-collar,16680,1
+956240084,30,F,3,High School,Unknown,CO,91723,yes,yes,no,telephone,Retirees,26226,1
+972238741,37,F,4,Uneducated,Unknown,IA,53012,yes,no,no,cellular,Govt,18856,2
+998600914,66,F,0,Doctorate,Single,IA,86503,no,yes,no,unknown,White-collar,82924,1
+973300637,31,M,2,Uneducated,Single,NM,85260,yes,yes,yes,cellular,Blue-collar,14975,4
+980967191,28,F,4,Uneducated,Unknown,AZ,91711,no,yes,no,cellular,Selfemployeed,16202,4
+929600202,29,F,4,High School,Unknown,CO,90025,yes,no,yes,telephone,Blue-collar,56172,5
+965529051,63,M,0,Uneducated,Unknown,CO,90660,yes,yes,no,cellular,White-collar,37566,4
+929450273,36,F,1,Doctorate,Unknown,PA,91615,yes,yes,no,telephone,Retirees,2565,3
+936632757,57,M,0,Graduate,Single,HI,72023,no,yes,yes,cellular,White-collar,12487,3
+958496914,26,M,2,Post-Graduate,Married,VA,90660,no,yes,yes,unknown,Retirees,80777,3
+965181765,65,M,4,Graduate,Single,GA,91730,no,no,no,unknown,Retirees,78851,2
+903895645,32,M,0,Uneducated,Married,MA,86446,yes,yes,no,telephone,Businessman,44272,4
+952191530,59,M,1,Graduate,Unknown,HI,53010,yes,yes,no,telephone,Selfemployeed,72632,3
+945114543,61,M,0,Doctorate,Married,IL,53010,yes,no,no,cellular,White-collar,104473,5
+989774697,28,M,3,Doctorate,Single,SC,91730,yes,no,yes,cellular,Retirees,78224,2
+991152880,69,M,1,Uneducated,Single,UT,54101,no,no,no,unknown,White-collar,14975,5
+954266464,46,F,2,High School,Unknown,OR,91711,yes,yes,yes,cellular,White-collar,67650,4
+997197979,21,F,4,Graduate,Single,HI,90302,no,no,yes,unknown,Retirees,22445,1
+922151928,24,F,0,High School,Unknown,SC,91007,yes,yes,no,telephone,Govt,34529,5
+962732043,48,F,1,High School,Single,MN,90255,no,no,yes,cellular,Blue-collar,1250,1
+917129912,56,M,3,Unknown,Single,PA,91106,no,yes,no,telephone,Selfemployeed,19513,2
+983517915,57,F,1,Uneducated,Unknown,OR,90275,yes,no,yes,cellular,Selfemployeed,234462,5
+971688860,38,M,5,Post-Graduate,Married,AK,90275,yes,yes,yes,unknown,Govt,46447,5
+903619375,27,F,3,Doctorate,Single,NY,72076,no,no,no,telephone,Businessman,194993,2
+952884503,67,F,2,Doctorate,Married,NV,90036,yes,yes,yes,telephone,Govt,145350,2
+979442503,64,F,4,Uneducated,Single,CO,91730,yes,yes,yes,cellular,Businessman,61949,3
+975751409,20,M,2,Post-Graduate,Single,CA,90706,no,yes,no,telephone,Businessman,70866,4
+988986321,41,F,0,Doctorate,Single,MI,90094,no,yes,yes,unknown,Govt,62985,5
+903637575,71,M,1,Uneducated,Single,AZ,86503,no,yes,yes,telephone,Selfemployeed,32612,5
+911267237,36,M,5,Doctorate,Married,UT,90036,no,yes,no,telephone,Blue-collar,108207,2
+986268397,26,F,3,High School,Married,PA,90302,yes,yes,no,cellular,Selfemployeed,70243,2
+957527432,44,F,3,Graduate,Single,OH,72120,no,yes,yes,telephone,Selfemployeed,14975,4
+918213276,64,F,1,Graduate,Single,IA,91711,no,no,yes,cellular,Selfemployeed,17459,2
+961968116,23,M,5,Doctorate,Married,UT,90029,no,yes,yes,cellular,Govt,99703,1
+924391257,55,F,1,Unknown,Unknown,MN,90029,yes,yes,no,telephone,Govt,67717,1
+906749089,25,M,0,Post-Graduate,Unknown,VA,53010,no,no,yes,unknown,Govt,115626,1
+934917589,50,M,2,Post-Graduate,Married,CO,91711,yes,yes,yes,cellular,Selfemployeed,16533,1
+950882459,38,F,3,Post-Graduate,Single,NE,72023,no,no,yes,telephone,Blue-collar,35630,4
+943936531,63,F,0,High School,Single,MA,90670,no,yes,yes,cellular,Businessman,237133,5
+928408562,73,M,2,Post-Graduate,Unknown,MN,90706,yes,no,yes,unknown,White-collar,60107,1
+961028710,58,M,0,Graduate,Unknown,PA,90277,no,no,yes,unknown,Businessman,23153,2
+943868501,46,M,5,High School,Married,CT,86446,no,yes,no,cellular,Businessman,14975,1
+945298556,29,F,3,Uneducated,Unknown,AZ,53022,yes,no,no,unknown,White-collar,39321,4
+950885459,45,M,1,Post-Graduate,Married,AZ,53022,no,yes,yes,telephone,Selfemployeed,55634,2
+937346970,38,F,1,Post-Graduate,Unknown,MI,72023,no,yes,yes,telephone,Blue-collar,69781,1
+956581473,58,M,2,Uneducated,Unknown,NV,90029,no,yes,no,cellular,Blue-collar,14975,5
+933859311,22,M,4,Post-Graduate,Unknown,VA,90026,no,yes,no,unknown,Businessman,17061,2
+910993268,64,F,5,Uneducated,Single,GA,90255,yes,no,no,telephone,White-collar,75931,2
+963123515,32,M,2,High School,Single,NJ,91750,no,yes,yes,telephone,Retirees,14975,5
+902601580,69,F,4,Graduate,Single,WA,91724,yes,no,yes,telephone,Selfemployeed,107419,2
+972399599,47,F,0,Uneducated,Unknown,MA,90025,no,no,yes,cellular,Businessman,232729,1
+906990811,39,M,5,Unknown,Married,CT,90706,yes,yes,yes,cellular,Blue-collar,25004,2
+946970882,47,F,0,Uneducated,Married,NM,90025,no,yes,no,telephone,Govt,85503,1
+930094589,27,F,3,Post-Graduate,Married,NJ,54101,yes,yes,no,telephone,Govt,10079,5
+987260863,60,M,5,High School,Married,SC,90025,no,yes,no,unknown,White-collar,31299,3
+909209801,58,F,4,Doctorate,Single,CO,91750,yes,no,no,unknown,White-collar,33256,5
+987477029,20,F,3,High School,Single,WA,72023,yes,yes,yes,unknown,Businessman,62351,1
+905403355,22,F,1,Doctorate,Unknown,MO,90036,no,no,yes,cellular,Retirees,15881,4
+904164775,32,M,4,Uneducated,Unknown,OR,90291,yes,yes,no,telephone,Blue-collar,5525,5
+933189803,47,F,2,Graduate,Married,MI,72076,no,yes,no,cellular,Businessman,45701,4
+926757737,68,M,1,Unknown,Single,CO,90266,no,yes,no,telephone,Retirees,12720,4
+902735359,44,M,1,High School,Married,UT,53012,no,yes,no,unknown,White-collar,9535,1
+983394260,75,F,2,Post-Graduate,Unknown,CA,91007,no,no,no,unknown,Govt,14975,1
+920452412,52,F,5,Doctorate,Unknown,CO,91106,no,no,yes,unknown,Selfemployeed,31002,3
+932016960,57,F,1,Post-Graduate,Married,NY,90026,yes,yes,yes,unknown,Govt,62274,2
+916941092,72,M,4,Graduate,Unknown,CA,91615,no,no,no,telephone,Blue-collar,18031,5
+963560289,25,F,3,Doctorate,Married,OH,90275,no,no,no,unknown,Blue-collar,14975,1
+989853245,63,F,1,High School,Single,IA,90277,no,yes,no,telephone,Govt,79439,5
+915353091,64,F,4,Uneducated,Married,IA,91730,no,yes,yes,telephone,Govt,49487,4
+975694715,51,F,0,Post-Graduate,Single,IA,90302,no,no,yes,cellular,Retirees,23933,2
+929254705,64,F,4,Graduate,Single,CT,86503,no,no,yes,unknown,Businessman,53988,3
+962415804,66,M,3,High School,Unknown,OR,72076,yes,no,no,unknown,White-collar,222514,5
+993880599,40,M,4,High School,Unknown,PA,98815,yes,no,yes,cellular,Retirees,47641,2
+934392446,35,F,2,High School,Unknown,IA,90025,no,yes,no,telephone,Selfemployeed,33130,3
+949512272,73,F,3,High School,Married,GA,91723,yes,yes,yes,unknown,Govt,166510,5
+922520277,40,F,5,Doctorate,Married,VA,90706,no,no,yes,telephone,Selfemployeed,24804,2
+981321540,30,F,0,High School,Unknown,IA,90019,no,yes,yes,cellular,Selfemployeed,16693,1
+981503378,56,M,2,Post-Graduate,Married,OR,54101,no,no,no,telephone,Retirees,55576,5
+996416275,55,F,5,Graduate,Unknown,NE,90019,no,no,no,unknown,White-collar,30747,2
+915372341,54,M,4,Doctorate,Married,MI,86446,no,yes,yes,telephone,Blue-collar,33206,3
+921980274,38,M,3,High School,Single,MA,90025,yes,no,no,telephone,Businessman,24764,2
+941746937,39,F,0,Unknown,Single,NE,90036,yes,no,no,unknown,Blue-collar,14975,1
+914508768,37,M,2,Unknown,Unknown,AZ,90036,yes,yes,no,unknown,White-collar,94932,5
+977669750,66,M,5,Graduate,Married,TX,90670,yes,yes,no,telephone,Blue-collar,109896,5
+903446499,60,M,5,Uneducated,Married,IL,90660,no,no,no,telephone,Govt,35666,5
+941870192,68,M,0,Uneducated,Single,TX,99504,yes,no,no,cellular,Govt,77405,1
+977282128,33,F,4,Doctorate,Single,CA,91010,no,yes,no,unknown,Retirees,14975,3
+990912013,34,F,0,Doctorate,Unknown,NM,90036,yes,no,yes,telephone,Selfemployeed,11202,5
+950372847,50,M,5,Doctorate,Single,AR,91106,yes,no,no,unknown,White-collar,103608,3
+953238057,20,F,1,Uneducated,Unknown,TX,90277,yes,yes,no,cellular,White-collar,14975,2
+995967649,72,F,2,Unknown,Single,WA,54101,yes,yes,yes,telephone,Blue-collar,28068,3
+926619372,73,F,0,Uneducated,Single,MO,72023,no,yes,yes,telephone,Retirees,18198,3
+910200074,73,F,5,Post-Graduate,Married,OR,91750,yes,yes,yes,telephone,Blue-collar,44543,5
+979470029,22,F,4,High School,Single,OR,54101,yes,yes,yes,unknown,Blue-collar,94255,4
+992692697,35,M,5,Doctorate,Single,PA,53010,no,yes,no,cellular,White-collar,18205,4
+984187049,42,F,4,Unknown,Unknown,AR,54101,no,no,yes,unknown,Blue-collar,43092,1
+932594692,30,F,0,Graduate,Single,NJ,90250,yes,no,yes,telephone,Selfemployeed,190888,1
+913676961,31,F,4,Graduate,Unknown,PA,90250,no,yes,no,cellular,Blue-collar,56575,4
+993575660,29,F,3,High School,Single,GA,90266,no,yes,no,telephone,Selfemployeed,8250,2
+940477742,51,M,3,Unknown,Single,NE,53012,no,no,no,telephone,White-collar,113490,5
+991839693,35,M,3,Uneducated,Unknown,VA,90670,yes,no,yes,unknown,Retirees,77169,5
+980585882,27,M,1,Uneducated,Married,CA,91007,no,no,no,telephone,Govt,42742,2
+916247735,57,M,0,Post-Graduate,Unknown,MO,91723,yes,yes,yes,cellular,Selfemployeed,69712,2
+975958181,31,F,5,Post-Graduate,Unknown,MI,90277,yes,yes,no,telephone,Retirees,83687,4
+905512205,43,M,5,Uneducated,Unknown,IA,98815,yes,no,no,telephone,Retirees,14975,1
+946600900,47,F,1,Graduate,Married,VA,91723,yes,yes,yes,unknown,Selfemployeed,14975,2
+971503856,72,F,4,Doctorate,Single,OR,90036,no,yes,no,cellular,White-collar,20279,1
+957495923,27,F,1,Graduate,Unknown,NY,90255,yes,yes,no,unknown,Businessman,32797,3
+988787891,47,F,4,Post-Graduate,Unknown,CT,53022,no,no,no,telephone,Retirees,37653,5
+949737181,55,F,4,High School,Married,HI,91723,yes,no,no,unknown,Retirees,28089,4
+909255216,45,M,2,Uneducated,Unknown,NE,91010,no,yes,no,unknown,White-collar,73975,5
+967908907,27,M,5,Post-Graduate,Single,PA,90036,yes,yes,yes,unknown,White-collar,236628,4
+986911784,69,M,3,Post-Graduate,Married,AZ,90026,no,yes,yes,unknown,Blue-collar,10513,3
+945799273,47,M,4,Doctorate,Single,FL,90019,yes,yes,no,telephone,White-collar,167277,5
+901698142,47,F,2,Uneducated,Single,PA,90291,yes,yes,yes,telephone,Retirees,32978,3
+956379329,56,M,5,Doctorate,Married,MI,90201,no,no,yes,cellular,Selfemployeed,13237,4
+965793759,60,F,3,Uneducated,Unknown,OH,91010,yes,yes,yes,unknown,Businessman,30511,2
+914165187,55,M,4,Doctorate,Single,PA,90302,yes,yes,no,unknown,Blue-collar,22721,5
+958186525,46,F,4,Graduate,Single,MI,90255,yes,yes,no,cellular,Selfemployeed,15736,3
+948612055,73,F,1,High School,Single,MN,72120,no,no,no,unknown,Businessman,22149,5
+985306788,36,M,1,High School,Single,OR,99504,yes,no,yes,cellular,Businessman,86104,5
+961705170,28,F,5,Uneducated,Married,NJ,90019,yes,yes,yes,telephone,Businessman,95685,5
+994933359,52,F,3,Unknown,Married,AK,90277,no,no,no,cellular,Govt,231584,1
+920534124,72,M,4,Post-Graduate,Single,AR,90094,no,no,no,unknown,Selfemployeed,40199,3
+958450095,39,F,5,Post-Graduate,Unknown,IL,72023,no,no,yes,cellular,Blue-collar,75578,3
+923640702,32,M,5,Uneducated,Single,OH,90277,no,no,yes,telephone,Blue-collar,29492,5
+998488338,47,M,0,Doctorate,Unknown,HI,90029,no,no,no,unknown,Businessman,118490,2
+970027662,67,M,1,Unknown,Single,WA,91723,yes,no,yes,telephone,Selfemployeed,24244,5
+987302916,48,F,3,Graduate,Unknown,NV,90255,yes,yes,yes,telephone,Govt,23748,1
+936249845,32,F,4,Doctorate,Single,CT,98815,yes,no,yes,cellular,Businessman,101682,4
+982666356,65,F,5,Doctorate,Unknown,IA,90660,no,no,yes,telephone,White-collar,76582,1
+972232344,54,M,4,Uneducated,Single,AZ,90025,yes,yes,yes,unknown,Blue-collar,54916,2
+964893936,25,F,0,Uneducated,Single,UT,90277,no,yes,yes,telephone,Retirees,51333,5
+962394301,37,M,3,Post-Graduate,Unknown,MI,90025,no,yes,yes,telephone,Businessman,31192,3
+958461818,70,M,5,Uneducated,Married,UT,91724,yes,yes,no,cellular,White-collar,51453,5
+998116677,24,F,4,Uneducated,Unknown,UT,90302,no,no,no,telephone,Blue-collar,34349,2
+979520597,66,M,1,Uneducated,Married,PA,53012,no,no,yes,cellular,Govt,26721,3
+936023439,44,F,0,Post-Graduate,Single,MA,90670,yes,no,yes,cellular,Selfemployeed,65252,1
+943258988,21,F,3,Graduate,Unknown,IL,99504,no,no,yes,unknown,Blue-collar,73450,4
+932949803,29,F,0,Graduate,Unknown,AZ,90250,no,yes,no,unknown,Selfemployeed,96955,4
+911631697,75,F,1,Uneducated,Unknown,AK,91711,yes,no,no,unknown,Selfemployeed,18723,5
+937437115,49,F,3,Post-Graduate,Married,IA,90201,no,no,yes,unknown,Govt,20007,1
+960505620,69,M,0,Graduate,Married,CO,86503,no,yes,no,cellular,Govt,36651,2
+932730796,64,M,2,Doctorate,Single,NM,98815,yes,no,yes,telephone,Businessman,77511,4
+962372114,24,M,1,Graduate,Married,SC,90275,yes,no,yes,unknown,Businessman,11775,1
+976483924,74,F,1,Graduate,Married,MN,90019,yes,no,yes,unknown,Blue-collar,14975,5
+981917334,75,F,1,Post-Graduate,Single,WA,91730,yes,no,yes,unknown,Govt,130119,3
+989682738,52,F,2,Doctorate,Unknown,IL,91615,no,yes,yes,telephone,White-collar,99124,5
+950867083,73,M,2,Post-Graduate,Unknown,HI,91730,no,yes,yes,unknown,Blue-collar,27881,5
+945150390,20,F,4,Uneducated,Single,AK,90291,yes,yes,yes,telephone,Retirees,25256,1
+903852048,37,M,5,High School,Unknown,CT,90670,no,yes,no,cellular,Selfemployeed,188699,4
+966344695,51,M,0,Graduate,Married,CT,91615,no,yes,yes,cellular,Selfemployeed,33223,1
+943622663,66,F,4,High School,Single,MO,91701,yes,no,no,cellular,Businessman,69112,3
+924406132,68,F,0,Post-Graduate,Single,NV,53010,yes,no,yes,telephone,White-collar,27171,1
+965437844,30,M,5,Post-Graduate,Single,NE,91701,no,yes,yes,unknown,Govt,76696,2
+928470244,40,F,2,Post-Graduate,Unknown,MA,91615,yes,yes,no,unknown,Govt,64390,5
+947623800,45,M,5,High School,Single,OH,53022,yes,yes,no,unknown,Businessman,49321,4
+934675473,44,F,2,Post-Graduate,Single,NY,90019,yes,no,yes,unknown,Retirees,31945,3
+945679506,41,F,5,Uneducated,Single,HI,72120,no,yes,no,unknown,Blue-collar,86104,5
+937535126,46,M,4,Post-Graduate,Unknown,WA,72023,yes,no,yes,telephone,Blue-collar,63176,1
+980014570,68,F,3,Unknown,Married,HI,90302,no,no,yes,cellular,White-collar,14975,2
+994111289,32,M,4,High School,Single,PA,90094,no,no,no,unknown,Businessman,85919,1
+937080140,52,F,0,Unknown,Married,MA,91007,no,no,no,cellular,Businessman,52811,5
+974597009,53,M,4,Post-Graduate,Unknown,TX,53022,yes,yes,no,telephone,Retirees,2565,3
+901362459,60,M,1,Uneducated,Unknown,SC,91730,yes,no,no,telephone,Blue-collar,31982,4
+969340535,54,F,0,Graduate,Unknown,OH,90302,yes,no,yes,unknown,Businessman,56615,5
+925643159,20,M,5,Doctorate,Unknown,IA,72120,yes,yes,no,telephone,Govt,161541,3
+911490777,40,F,0,Doctorate,Married,IL,72076,yes,no,no,cellular,White-collar,20514,5
+932394260,67,F,3,Post-Graduate,Single,IL,90250,no,no,no,unknown,Blue-collar,192004,2
+996646785,74,F,2,Uneducated,Unknown,AZ,91010,no,no,no,unknown,Retirees,138556,1
+954549859,25,M,5,High School,Unknown,AZ,90029,no,yes,no,cellular,White-collar,33207,4
+965575808,47,M,0,Unknown,Married,CA,85260,yes,no,yes,unknown,Selfemployeed,32705,3
+974514489,36,F,5,Unknown,Married,MO,90302,no,no,yes,unknown,Govt,34482,4
+932255732,24,F,5,Unknown,Unknown,NV,91007,no,yes,no,cellular,Retirees,78213,4
+992692016,50,M,5,High School,Single,IL,90094,yes,yes,no,unknown,White-collar,94726,4
+963900135,24,F,2,Doctorate,Single,OH,90266,yes,no,yes,unknown,Businessman,25163,3
+986691619,57,F,4,Uneducated,Unknown,NE,90266,no,no,no,cellular,Selfemployeed,71328,3
+995541870,22,M,5,High School,Married,NM,91307,no,yes,yes,telephone,Retirees,43053,4
+965876924,72,F,1,Unknown,Unknown,VA,90025,yes,no,yes,cellular,Businessman,20919,1
+960152969,42,M,3,Post-Graduate,Unknown,AR,90201,yes,yes,no,unknown,Govt,89561,5
+902314351,56,F,2,Graduate,Married,TX,90094,yes,no,yes,cellular,Selfemployeed,19255,4
+912489409,72,M,0,High School,Unknown,NE,90266,yes,yes,no,unknown,Blue-collar,87448,2
+939491631,56,F,2,High School,Unknown,MA,53010,no,no,no,unknown,Businessman,39794,4
+929742165,29,F,0,Uneducated,Unknown,IA,86503,no,yes,yes,cellular,White-collar,18391,3
+954277800,29,M,2,Uneducated,Married,OH,85260,yes,yes,yes,unknown,Retirees,24721,5
+992850100,38,F,0,High School,Single,IL,90094,no,yes,no,telephone,Selfemployeed,26331,2
+932655866,36,M,5,Unknown,Single,SC,90291,no,yes,yes,unknown,Businessman,152103,5
+941098277,40,F,4,Graduate,Married,MO,90275,yes,yes,no,cellular,Blue-collar,48654,5
+989115205,33,M,0,Uneducated,Single,MO,85260,no,no,yes,telephone,Retirees,236058,2
+978055069,28,M,0,Unknown,Unknown,OR,72023,no,no,yes,telephone,Retirees,63822,4
+949529086,65,M,1,Post-Graduate,Single,NE,72120,no,yes,no,unknown,Businessman,43466,4
+963519947,20,M,0,Uneducated,Unknown,MN,72023,yes,no,no,cellular,Blue-collar,32510,4
+974285882,70,F,1,Unknown,Single,NY,90029,yes,no,no,unknown,Govt,61754,1
+971259135,64,F,3,Unknown,Married,NE,91724,no,no,yes,unknown,Govt,14975,4
+946138336,32,M,5,Graduate,Single,NY,86446,yes,no,no,cellular,Selfemployeed,35155,2
+957110154,23,M,1,Graduate,Single,IL,90670,yes,no,no,cellular,Businessman,12715,1
+973871890,20,M,4,Post-Graduate,Single,AR,53012,yes,no,yes,unknown,Selfemployeed,77954,4
+944398056,68,F,5,Unknown,Married,NJ,91723,no,yes,yes,telephone,Govt,19950,1
+947219209,59,F,1,Doctorate,Single,HI,91750,no,no,no,unknown,Retirees,14975,2
+994335593,51,F,5,Unknown,Married,AR,53022,yes,no,no,telephone,Selfemployeed,116047,4
+960900658,53,F,5,Graduate,Unknown,MO,86503,no,no,no,unknown,Blue-collar,30328,3
+936361787,47,M,5,Doctorate,Single,IA,90266,no,yes,no,cellular,White-collar,31603,2
+941154241,50,M,3,Uneducated,Married,PA,91711,no,no,yes,telephone,Govt,117151,5
+933742830,27,M,4,Uneducated,Married,IA,91010,no,no,yes,cellular,Govt,115030,5
+930942292,58,F,2,High School,Single,OH,91711,no,no,no,cellular,Blue-collar,50104,2
+916194158,45,F,2,Graduate,Unknown,MO,90706,yes,yes,no,cellular,Selfemployeed,29250,5
+996809144,53,F,1,High School,Married,VA,54101,no,no,no,cellular,Businessman,25499,2
+925848226,73,M,5,Doctorate,Single,NY,90275,no,yes,yes,cellular,Retirees,22367,3
+942352128,73,M,1,Graduate,Unknown,MI,86446,no,no,no,unknown,White-collar,21982,2
+916046365,22,F,3,Post-Graduate,Married,NY,91106,yes,yes,no,telephone,Businessman,34801,4
+999707808,69,M,3,Unknown,Married,SC,53010,yes,yes,yes,unknown,Businessman,27818,4
+971922443,31,F,0,Post-Graduate,Unknown,CT,90250,yes,yes,yes,unknown,Blue-collar,117377,1
+992632184,20,F,3,Doctorate,Unknown,AZ,91701,no,no,no,unknown,Selfemployeed,65595,5
+924850391,73,M,0,Graduate,Single,SC,91711,yes,yes,no,cellular,Govt,14975,5
+925708194,63,F,4,Doctorate,Single,CA,90277,yes,yes,yes,unknown,Govt,40630,2
+929042654,24,M,1,Unknown,Married,CO,85260,yes,yes,no,telephone,Blue-collar,25795,5
+999133838,49,F,4,Uneducated,Unknown,OH,90275,yes,yes,no,unknown,Selfemployeed,62469,4
+964988034,49,M,3,Uneducated,Unknown,AK,91730,no,no,yes,cellular,Blue-collar,21451,3
+937111151,36,M,4,Doctorate,Unknown,MN,90277,yes,no,yes,telephone,Govt,74295,2
+997252152,67,M,4,High School,Married,NM,91730,yes,no,yes,telephone,Businessman,55228,5
+979133014,66,F,4,Graduate,Unknown,CO,90026,no,no,no,telephone,Retirees,34446,4
+970415568,42,F,3,Graduate,Unknown,MA,91615,no,yes,yes,telephone,Selfemployeed,14975,1
+980099897,34,M,5,Uneducated,Married,AR,90291,yes,no,yes,unknown,White-collar,60698,5
+937983442,56,M,4,Post-Graduate,Single,TX,72058,no,yes,no,cellular,White-collar,115498,3
+913492385,40,F,0,Unknown,Single,IL,91615,yes,no,no,telephone,Businessman,91315,3
+926054020,33,F,3,Post-Graduate,Married,IL,91307,no,no,yes,telephone,Blue-collar,236628,5
+939761527,21,F,4,Post-Graduate,Unknown,MI,91730,no,no,yes,cellular,Blue-collar,27611,5
+930532273,30,M,5,Doctorate,Married,WA,90255,yes,yes,no,unknown,Govt,57686,4
+948436637,70,F,3,Uneducated,Single,AZ,90025,no,no,no,telephone,Businessman,29783,5
+924084236,58,F,2,Uneducated,Single,CO,91724,yes,no,yes,unknown,Govt,14975,1
+940569669,57,M,5,Uneducated,Married,CO,90094,no,no,yes,unknown,Govt,14975,4
+901898961,53,F,0,Doctorate,Married,IL,54101,yes,yes,no,unknown,White-collar,31872,2
+995028632,57,F,4,High School,Single,AZ,90266,no,no,yes,unknown,Govt,63474,1
+971690398,69,F,2,Post-Graduate,Married,AR,90250,no,no,no,telephone,Govt,26022,4
+916989677,53,M,2,Doctorate,Single,TX,86503,no,yes,yes,telephone,White-collar,47224,4
+936817443,37,M,3,Graduate,Married,FL,53012,no,yes,no,unknown,Blue-collar,84053,3
+906109013,49,M,2,Unknown,Married,FL,90019,no,no,no,unknown,Selfemployeed,21466,4
+907318358,34,M,0,High School,Married,UT,90036,yes,no,yes,cellular,Retirees,6550,1
+974270583,46,M,0,Graduate,Single,IL,85260,no,no,yes,cellular,Govt,100225,5
+939209916,70,M,1,Post-Graduate,Married,AZ,91701,yes,yes,no,cellular,Selfemployeed,65074,1
+993605777,53,M,0,Uneducated,Single,OR,91711,yes,yes,yes,telephone,White-collar,32046,2
+916948946,71,F,5,Post-Graduate,Single,NM,91307,yes,yes,yes,cellular,Selfemployeed,43433,4
+985613415,57,F,2,Doctorate,Married,IA,90277,no,no,yes,telephone,Retirees,65361,4
+965884623,52,M,0,Unknown,Married,WA,90277,yes,yes,no,telephone,Selfemployeed,29518,4
+913769080,43,F,3,Doctorate,Single,SC,99504,no,no,yes,telephone,Selfemployeed,90551,4
+901646234,34,F,1,High School,Single,IL,53022,yes,yes,yes,telephone,Selfemployeed,22647,3
+977049595,49,M,2,High School,Unknown,PA,91010,yes,yes,no,cellular,Selfemployeed,76624,3
+938163378,74,F,1,Unknown,Single,VA,85260,yes,yes,yes,unknown,Businessman,14975,5
+963001391,61,F,2,Graduate,Unknown,IA,90660,yes,no,yes,unknown,Govt,63395,4
+964251933,70,F,3,Graduate,Unknown,IA,91007,yes,no,no,unknown,White-collar,18391,2
+959118721,36,F,1,High School,Unknown,SC,72076,no,no,no,cellular,Retirees,85797,5
+945728776,24,F,4,High School,Married,NM,90019,yes,no,yes,unknown,White-collar,117688,4
+924744872,48,M,5,Uneducated,Married,UT,54101,yes,yes,yes,cellular,Businessman,43842,3
+906895666,23,M,5,Graduate,Single,SC,90275,no,no,no,cellular,Businessman,180343,2
+933887075,29,M,2,Unknown,Unknown,IL,53012,no,yes,no,cellular,Businessman,19226,5
+964119726,75,F,4,Graduate,Married,MA,86446,no,no,yes,unknown,Govt,17872,2
+915312516,36,M,1,Uneducated,Married,CA,91750,yes,no,yes,unknown,Businessman,118367,4
+908770247,29,F,4,Doctorate,Married,AZ,90670,yes,yes,yes,unknown,Selfemployeed,53091,1
+953782042,36,F,4,High School,Married,NE,53010,yes,yes,no,telephone,White-collar,12081,2
+966001106,39,F,1,High School,Married,OH,91007,yes,no,yes,cellular,Blue-collar,46147,2
+909943140,43,F,3,Uneducated,Unknown,HI,90277,yes,no,no,telephone,Retirees,78741,3
+977446468,24,M,4,Unknown,Unknown,PA,91010,yes,yes,no,cellular,Businessman,14975,4
+984482772,53,M,4,High School,Unknown,NJ,91730,no,yes,no,unknown,White-collar,70487,2
+992133896,25,F,3,Post-Graduate,Unknown,AR,91730,no,yes,yes,cellular,Businessman,51498,4
+907195288,72,M,4,High School,Single,WA,90255,yes,yes,yes,cellular,Govt,37987,3
+920364454,21,F,4,Post-Graduate,Unknown,AZ,91007,yes,yes,yes,telephone,Businessman,39065,4
+920024960,32,M,4,Uneducated,Married,MA,91730,yes,no,no,cellular,Businessman,11786,3
+975543051,62,M,5,Uneducated,Unknown,IL,91723,yes,no,yes,unknown,Businessman,56287,3
+940780112,62,F,0,High School,Single,WA,54101,yes,no,no,cellular,Businessman,78127,5
+911432787,67,M,3,Graduate,Married,VA,72076,no,no,no,cellular,Retirees,37853,4
+933311626,30,F,4,Post-Graduate,Unknown,WA,91724,no,yes,no,cellular,White-collar,96698,1
+915898299,70,M,5,Unknown,Unknown,IL,72076,yes,yes,no,telephone,Govt,52453,5
+974903294,66,F,3,High School,Unknown,GA,72058,no,yes,no,cellular,Businessman,36237,3
+955857931,42,F,2,Unknown,Married,MN,86503,yes,no,no,cellular,Businessman,26316,1
+981378577,74,M,2,High School,Married,MN,90029,yes,yes,yes,telephone,Businessman,12646,2
+980010790,35,M,4,Graduate,Single,HI,85260,yes,yes,no,telephone,Businessman,31967,2
+983002706,50,F,5,Graduate,Married,PA,53010,no,no,yes,telephone,Selfemployeed,35198,5
+930291214,30,M,5,Graduate,Married,AZ,90670,no,no,no,telephone,Selfemployeed,107430,1
+970138498,73,M,3,Doctorate,Unknown,IA,86503,yes,no,yes,unknown,Blue-collar,14975,4
+951053474,35,F,3,Graduate,Married,NV,91730,no,yes,yes,unknown,Businessman,58741,1
